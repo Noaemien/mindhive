@@ -185,7 +185,7 @@ OS time shares CPU among multiple processes
 - Ready: ready to run but OS has not chosen to run it yet
 - Blocked: Not ready to run until some event occurs
 
-![[Pasted image 20240221091907.png|300]]
+![[processStateTransition.png|300]]
 #### OS mechanism for process management
 
 ##### Process control block

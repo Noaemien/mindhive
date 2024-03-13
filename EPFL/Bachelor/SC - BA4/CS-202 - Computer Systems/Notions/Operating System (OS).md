@@ -45,3 +45,9 @@ For example:
 - File Systems
 - User Interface
 - Network
+
+
+# How OS handles processes
+The OS keeps a tree of all processes
+- Every process has a parent except "init" (pid 1 = init)
+- The OS Scheduler maintains the set of schedulable processes

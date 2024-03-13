@@ -6,5 +6,5 @@
 - Process: Start by applying a [[Deep Read]] methodology to every paper, as i gain more knowledge on basics and overall ecosystem starting with a light read is possible to sort papers that are really of interest to me.
 - Documenting my progress in [[Master Daily Papers Registory]] 
 ### Objective 2: Maintain and improve coding ability in main known languages ([[Java]], [[Scala]], [[Python]], [[C++]] )
-### Objective 3: Contribute to Meaningful [[Open-source]] projects
+### Objective 3: Contribute to Meaningful [[Open-source]] projects that I use and like (Ex: Blender)
 

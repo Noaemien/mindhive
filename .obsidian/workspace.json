@@ -21,22 +21,25 @@
             }
           },
           {
-            "id": "69471e7846c11b09",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313094425.png"
-              }
-            }
-          },
-          {
             "id": "ee02ec12ad32e2a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2af952bd17cde4e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "2ff22c035c1307f0",
@@ -110,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md"
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md"
               }
             }
           },
@@ -172,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md"
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md"
               }
             }
           },
@@ -202,18 +206,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2876d957db381d7",
+  "active": "ee02ec12ad32e2a9",
   "lastOpenFiles": [
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Memory Management Unit (MMU).md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Central Processing Unit (CPU).md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Ressource sharing.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+    "Personal/Getting back into it.md",
+    "Personal/Open-source.md",
+    "Personal/Articles/The demise of the oil industry.md",
+    "Personal/Deep Learning.md",
+    "Personal/Techniques/Deep Read.md",
+    "Personal/Reading/Articles/Seba Technology Disruption Framework.md",
+    "Personal/Reading/Articles/RethinkX - Rethinking food and agriculture 2020-2030.md",
+    "Personal/Reading/Articles/Precision Fermentation.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/processStateTransition.png",
     "README.md",
+    "Personal/Investments/Tesla/Earnings/Q4 2023.md",
+    "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
     "Personal/Reading/Daily Papers/Master Daily Papers Registory.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 4.md",
     "EPFL/EPFL - Road to Masters.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Ressource sharing.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Memory Management Unit (MMU).md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Central Processing Unit (CPU).md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313094425.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313093028.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313082836.png",
@@ -225,24 +240,13 @@
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240312144844.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240312140131.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240312132719.png",
-    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240312132500.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Untitled.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 3.md",
     "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 4.md",
     "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 1.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/CS-202 - Computer Systems.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 3.md",
-    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 3.md",
-    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 2.md",
-    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md",
-    "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/MATH-207 - Analyse IV.md",
-    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 1.md",
-    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/CS-232 - Introduction to Machine Learning.md",
-    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/Deep Learning Papers Reading Roadmap.md",
     "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/21_Model/[15]_Srivastava,_Nitish,_et_al_Dropout__a_simple_way_to_prevent_neural_networks_from_overfitting_Journal_of_Machine_Learning_Research_151_(2014)__1929-1958_.pdf",
     "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/21_Model/[14]_Hinton,_Geoffrey_E,_et_al_Improving_neural_networks_by_preventing_co-adaptation_of_feature_detectors_arXiv_preprint_arXiv_12070580_(2012)_.pdf",
-    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdf.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources",
     "EPFL/Bachelor/SC - BA4/Intro to sv",

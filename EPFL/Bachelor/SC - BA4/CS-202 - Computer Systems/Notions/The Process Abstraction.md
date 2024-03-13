@@ -28,7 +28,7 @@ A process can have multiple **threads** in the same address space
 ## A unique identifier: Process ID (PID)
 Unique for all different program instances. Identifies specific process.
 
-## Memory image
+## Memory image (address space)
 
 ![[processMemorySegments.png|300]]
 
@@ -77,6 +77,63 @@ OS Scheduler picks one of the processes to run
 ## Three States
 
 ### Running
-A process is running on a CPU. This means it is executing instructions
+The process is running on a CPU. This means it is executing instructions
 
 ### Ready
+The process is ready to run but for some reason CPU has not chosen to run it yet (could be for scheduling reasons).
+
+### Blocked
+The process triggered an operation that makes it not ready to run because it is waiting on the completion of a another event. Example: Process gets blocked for an I/O request to disk.
+
+## State Transitions
+![[processStateTransition.png]]
+
+
+
+
+# Process Control Blocks
+Also known as `task_struct` on linux
+
+## Elements
+- Process ID (PID)
+- Process state / context
+- Pointers to parent process (`cat /proc/<pid>/status`)
+- CPU context
+- Pointer to address space (`cat /proc/<pid>/maps`)
+- IO status information
+
+# Process API
+Main methods
+
+## fork()
+Executes a child process that is a copy of the parent process.
+Child has a different process ID
+Returns child PID (as an int):
+- If executing in parent process:
+	- returns pid > 0 if child is created
+	- returns pid -1 if there is an error. The new process is not created
+- returns 0 if executing in child process
+
+### Execution
+- OS allocates data structures for the child process
+- OS makes a copy of the caller's (parent) memory / address space
+- OS also copies other states, such as [[File Descriptors|file descriptors]], from the parent process
+- The state of the child process is set to READY
+- Parent and child execute in their **own separate copy** of the memory
+- `fork`is implemented by the OS
+
+## exec()
+Executes a new program within the current process, replacing the previous executable program.
+
+Replaces the memory (address space), loads new program from the disk --> Code, data, heap and stack are replaced by new program.
+
+Only PID and STDIN, STDOUT and STDERR which allows parent to redirect/rewire child's output.
+
+The new program can pass command line arguments and environment (can inherit them from parent).
+
+Commonly used after fork() to start a new program.
+## exit()
+Terminates the current process
+
+## wait()
+Blocks the current process until the child terminates
