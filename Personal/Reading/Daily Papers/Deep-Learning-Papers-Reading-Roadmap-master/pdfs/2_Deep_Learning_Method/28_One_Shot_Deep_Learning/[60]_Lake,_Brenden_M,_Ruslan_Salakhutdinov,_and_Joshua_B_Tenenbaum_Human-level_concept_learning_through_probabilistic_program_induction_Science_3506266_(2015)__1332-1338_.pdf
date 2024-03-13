@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page Not Found - Center for Learning and Memory</title>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://clm.utexas.edu/#website","url":"https://clm.utexas.edu/","name":"Center for Learning and Memory","description":"at The University of Texas at Austin","publisher":{"@id":"https://clm.utexas.edu/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://clm.utexas.edu/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://clm.utexas.edu/#organization","name":"Center for Learning and Memory","url":"https://clm.utexas.edu/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://clm.utexas.edu/#/schema/logo/image/","url":"https://clm.utexas.edu/CLMsite/wp-content/uploads/txshopclm-logo.jpg","contentUrl":"https://clm.utexas.edu/CLMsite/wp-content/uploads/txshopclm-logo.jpg","width":302,"height":200,"caption":"Center for Learning and Memory"},"image":{"@id":"https://clm.utexas.edu/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Center for Learning and Memory &raquo; Feed" href="https://clm.utexas.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Center for Learning and Memory &raquo; Comments Feed" href="https://clm.utexas.edu/comments/feed/" />
+<link rel='stylesheet' id='blocksy-dynamic-global-css' href='http://clm.utexas.edu/wp-content/uploads/blocksy/css/global.css?ver=03214' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='http://clm.utexas.edu/wp-includes/css/dist/block-library/style.min.css?ver=4d77e31257bdc9abbff73ba6a9ca2858' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--palette-color-1: var(--paletteColor1, #BB5500);--wp--preset--color--palette-color-2: var(--paletteColor2, #9D4500);--wp--preset--color--palette-color-3: var(--paletteColor3, #484848);--wp--preset--color--palette-color-4: var(--paletteColor4, #1C1C1C);--wp--preset--color--palette-color-5: var(--paletteColor5, #00808b);--wp--preset--color--palette-color-6: var(--paletteColor6, #e2e2e2);--wp--preset--color--palette-color-7: var(--paletteColor7, #F3F2F5);--wp--preset--color--palette-color-8: var(--paletteColor8, #ffffff);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--juicy-peach: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);--wp--preset--gradient--young-passion: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);--wp--preset--gradient--true-sunset: linear-gradient(to right, #fa709a 0%, #fee140 100%);--wp--preset--gradient--morpheus-den: linear-gradient(to top, #30cfd0 0%, #330867 100%);--wp--preset--gradient--plum-plate: linear-gradient(135deg, #667eea 0%, #764ba2 100%);--wp--preset--gradient--aqua-splash: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);--wp--preset--gradient--love-kiss: linear-gradient(to top, #ff0844 0%, #ffb199 100%);--wp--preset--gradient--new-retrowave: linear-gradient(to top, #3b41c5 0%, #a981bb 49%, #ffc8a9 100%);--wp--preset--gradient--plum-bath: linear-gradient(to top, #cc208e 0%, #6713d2 100%);--wp--preset--gradient--high-flight: linear-gradient(to right, #0acffe 0%, #495aff 100%);--wp--preset--gradient--teen-party: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);--wp--preset--gradient--fabled-sunset: linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #FFF800 100%);--wp--preset--gradient--arielle-smile: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);--wp--preset--gradient--itmeo-branding: linear-gradient(180deg, #2af598 0%, #009efd 100%);--wp--preset--gradient--deep-blue: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);--wp--preset--gradient--strong-bliss: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);--wp--preset--gradient--sweet-period: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);--wp--preset--gradient--purple-division: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%);--wp--preset--gradient--cold-evening: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);--wp--preset--gradient--mountain-rock: linear-gradient(to right, #868f96 0%, #596164 100%);--wp--preset--gradient--desert-hump: linear-gradient(to top, #c79081 0%, #dfa579 100%);--wp--preset--gradient--ethernal-constance: linear-gradient(to top, #09203f 0%, #537895 100%);--wp--preset--gradient--happy-memories: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);--wp--preset--gradient--grown-early: linear-gradient(to top, #0ba360 0%, #3cba92 100%);--wp--preset--gradient--morning-salad: linear-gradient(-225deg, #B7F8DB 0%, #50A7C2 100%);--wp--preset--gradient--night-call: linear-gradient(-225deg, #AC32E4 0%, #7918F2 48%, #4801FF 100%);--wp--preset--gradient--mind-crawl: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);--wp--preset--gradient--angel-care: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%);--wp--preset--gradient--juicy-cake: linear-gradient(to top, #e14fad 0%, #f9d423 100%);--wp--preset--gradient--rich-metal: linear-gradient(to right, #d7d2cc 0%, #304352 100%);--wp--preset--gradient--mole-hall: linear-gradient(-20deg, #616161 0%, #9bc5c3 100%);--wp--preset--gradient--cloudy-knoxville: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);--wp--preset--gradient--soft-grass: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);--wp--preset--gradient--saint-petersburg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);--wp--preset--gradient--everlasting-sky: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);--wp--preset--gradient--kind-steel: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);--wp--preset--gradient--over-sun: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);--wp--preset--gradient--premium-white: linear-gradient(to top, #d5d4d0 0%, #d5d4d0 1%, #eeeeec 31%, #efeeec 75%, #e9e9e7 100%);--wp--preset--gradient--clean-mirror: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);--wp--preset--gradient--wild-apple: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);--wp--preset--gradient--snow-again: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);--wp--preset--gradient--confident-cloud: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);--wp--preset--gradient--glass-water: linear-gradient(to top, #dfe9f3 0%, white 100%);--wp--preset--gradient--perfect-white: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: var(--block-max-width);--wp--style--global--wide-size: var(--block-wide-max-width); }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }.wp-site-blocks > * { margin-block-start: 0; margin-block-end: 0; }.wp-site-blocks > * + * { margin-block-start: var(--content-spacing); }body { --wp--style--block-gap: var(--content-spacing); }body .is-layout-flow > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-flow > * + *{margin-block-start: var(--content-spacing);margin-block-end: 0;}body .is-layout-constrained > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-constrained > * + *{margin-block-start: var(--content-spacing);margin-block-end: 0;}body .is-layout-flex{gap: var(--content-spacing);}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-palette-color-1-color{color: var(--wp--preset--color--palette-color-1) !important;}.has-palette-color-2-color{color: var(--wp--preset--color--palette-color-2) !important;}.has-palette-color-3-color{color: var(--wp--preset--color--palette-color-3) !important;}.has-palette-color-4-color{color: var(--wp--preset--color--palette-color-4) !important;}.has-palette-color-5-color{color: var(--wp--preset--color--palette-color-5) !important;}.has-palette-color-6-color{color: var(--wp--preset--color--palette-color-6) !important;}.has-palette-color-7-color{color: var(--wp--preset--color--palette-color-7) !important;}.has-palette-color-8-color{color: var(--wp--preset--color--palette-color-8) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-palette-color-1-background-color{background-color: var(--wp--preset--color--palette-color-1) !important;}.has-palette-color-2-background-color{background-color: var(--wp--preset--color--palette-color-2) !important;}.has-palette-color-3-background-color{background-color: var(--wp--preset--color--palette-color-3) !important;}.has-palette-color-4-background-color{background-color: var(--wp--preset--color--palette-color-4) !important;}.has-palette-color-5-background-color{background-color: var(--wp--preset--color--palette-color-5) !important;}.has-palette-color-6-background-color{background-color: var(--wp--preset--color--palette-color-6) !important;}.has-palette-color-7-background-color{background-color: var(--wp--preset--color--palette-color-7) !important;}.has-palette-color-8-background-color{background-color: var(--wp--preset--color--palette-color-8) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-palette-color-1-border-color{border-color: var(--wp--preset--color--palette-color-1) !important;}.has-palette-color-2-border-color{border-color: var(--wp--preset--color--palette-color-2) !important;}.has-palette-color-3-border-color{border-color: var(--wp--preset--color--palette-color-3) !important;}.has-palette-color-4-border-color{border-color: var(--wp--preset--color--palette-color-4) !important;}.has-palette-color-5-border-color{border-color: var(--wp--preset--color--palette-color-5) !important;}.has-palette-color-6-border-color{border-color: var(--wp--preset--color--palette-color-6) !important;}.has-palette-color-7-border-color{border-color: var(--wp--preset--color--palette-color-7) !important;}.has-palette-color-8-border-color{border-color: var(--wp--preset--color--palette-color-8) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-juicy-peach-gradient-background{background: var(--wp--preset--gradient--juicy-peach) !important;}.has-young-passion-gradient-background{background: var(--wp--preset--gradient--young-passion) !important;}.has-true-sunset-gradient-background{background: var(--wp--preset--gradient--true-sunset) !important;}.has-morpheus-den-gradient-background{background: var(--wp--preset--gradient--morpheus-den) !important;}.has-plum-plate-gradient-background{background: var(--wp--preset--gradient--plum-plate) !important;}.has-aqua-splash-gradient-background{background: var(--wp--preset--gradient--aqua-splash) !important;}.has-love-kiss-gradient-background{background: var(--wp--preset--gradient--love-kiss) !important;}.has-new-retrowave-gradient-background{background: var(--wp--preset--gradient--new-retrowave) !important;}.has-plum-bath-gradient-background{background: var(--wp--preset--gradient--plum-bath) !important;}.has-high-flight-gradient-background{background: var(--wp--preset--gradient--high-flight) !important;}.has-teen-party-gradient-background{background: var(--wp--preset--gradient--teen-party) !important;}.has-fabled-sunset-gradient-background{background: var(--wp--preset--gradient--fabled-sunset) !important;}.has-arielle-smile-gradient-background{background: var(--wp--preset--gradient--arielle-smile) !important;}.has-itmeo-branding-gradient-background{background: var(--wp--preset--gradient--itmeo-branding) !important;}.has-deep-blue-gradient-background{background: var(--wp--preset--gradient--deep-blue) !important;}.has-strong-bliss-gradient-background{background: var(--wp--preset--gradient--strong-bliss) !important;}.has-sweet-period-gradient-background{background: var(--wp--preset--gradient--sweet-period) !important;}.has-purple-division-gradient-background{background: var(--wp--preset--gradient--purple-division) !important;}.has-cold-evening-gradient-background{background: var(--wp--preset--gradient--cold-evening) !important;}.has-mountain-rock-gradient-background{background: var(--wp--preset--gradient--mountain-rock) !important;}.has-desert-hump-gradient-background{background: var(--wp--preset--gradient--desert-hump) !important;}.has-ethernal-constance-gradient-background{background: var(--wp--preset--gradient--ethernal-constance) !important;}.has-happy-memories-gradient-background{background: var(--wp--preset--gradient--happy-memories) !important;}.has-grown-early-gradient-background{background: var(--wp--preset--gradient--grown-early) !important;}.has-morning-salad-gradient-background{background: var(--wp--preset--gradient--morning-salad) !important;}.has-night-call-gradient-background{background: var(--wp--preset--gradient--night-call) !important;}.has-mind-crawl-gradient-background{background: var(--wp--preset--gradient--mind-crawl) !important;}.has-angel-care-gradient-background{background: var(--wp--preset--gradient--angel-care) !important;}.has-juicy-cake-gradient-background{background: var(--wp--preset--gradient--juicy-cake) !important;}.has-rich-metal-gradient-background{background: var(--wp--preset--gradient--rich-metal) !important;}.has-mole-hall-gradient-background{background: var(--wp--preset--gradient--mole-hall) !important;}.has-cloudy-knoxville-gradient-background{background: var(--wp--preset--gradient--cloudy-knoxville) !important;}.has-soft-grass-gradient-background{background: var(--wp--preset--gradient--soft-grass) !important;}.has-saint-petersburg-gradient-background{background: var(--wp--preset--gradient--saint-petersburg) !important;}.has-everlasting-sky-gradient-background{background: var(--wp--preset--gradient--everlasting-sky) !important;}.has-kind-steel-gradient-background{background: var(--wp--preset--gradient--kind-steel) !important;}.has-over-sun-gradient-background{background: var(--wp--preset--gradient--over-sun) !important;}.has-premium-white-gradient-background{background: var(--wp--preset--gradient--premium-white) !important;}.has-clean-mirror-gradient-background{background: var(--wp--preset--gradient--clean-mirror) !important;}.has-wild-apple-gradient-background{background: var(--wp--preset--gradient--wild-apple) !important;}.has-snow-again-gradient-background{background: var(--wp--preset--gradient--snow-again) !important;}.has-confident-cloud-gradient-background{background: var(--wp--preset--gradient--confident-cloud) !important;}.has-glass-water-gradient-background{background: var(--wp--preset--gradient--glass-water) !important;}.has-perfect-white-gradient-background{background: var(--wp--preset--gradient--perfect-white) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='parent-style-css' href='http://clm.utexas.edu/wp-content/themes/blocksy/style.css?ver=4d77e31257bdc9abbff73ba6a9ca2858' media='all' />
+<link rel='stylesheet' id='ct-main-styles-css' href='http://clm.utexas.edu/wp-content/themes/blocksy/static/bundle/main.min.css?ver=1.8.92' media='all' />
+<link rel='stylesheet' id='blocksy-ext-mega-menu-styles-css' href='http://clm.utexas.edu/wp-content/plugins/blocksy-companion-pro/framework/premium/extensions/mega-menu/static/bundle/main.min.css?ver=1.8.92' media='all' />
+<link rel='stylesheet' id='blocksy-ext-post-types-extra-styles-css' href='http://clm.utexas.edu/wp-content/plugins/blocksy-companion-pro/framework/premium/extensions/post-types-extra/static/bundle/main.min.css?ver=1.8.92' media='all' />
+<link rel='stylesheet' id='ct-page-title-styles-css' href='http://clm.utexas.edu/wp-content/themes/blocksy/static/bundle/page-title.min.css?ver=1.8.92' media='all' />
+<link rel='stylesheet' id='ct-back-to-top-styles-css' href='http://clm.utexas.edu/wp-content/themes/blocksy/static/bundle/back-to-top.min.css?ver=1.8.92' media='all' />
+<style id='kadence-blocks-global-variables-inline-css'>
+:root {--global-kb-font-size-sm:clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem);--global-kb-font-size-md:clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem);--global-kb-font-size-lg:clamp(1.75rem, 1.576rem + 0.543vw, 2rem);--global-kb-font-size-xl:clamp(2.25rem, 1.728rem + 1.63vw, 3rem);--global-kb-font-size-xxl:clamp(2.5rem, 1.456rem + 3.26vw, 4rem);--global-kb-font-size-xxxl:clamp(2.75rem, 0.489rem + 7.065vw, 6rem);}:root {--global-palette1: #3182CE;--global-palette2: #2B6CB0;--global-palette3: #1A202C;--global-palette4: #2D3748;--global-palette5: #4A5568;--global-palette6: #718096;--global-palette7: #EDF2F7;--global-palette8: #F7FAFC;--global-palette9: #ffffff;}
+</style>
+<link rel='stylesheet' id='friendlywp-style-css' href='http://clm.utexas.edu/wp-content/themes/clm-blocksy-child/assets/css/main.css?ver=1686769167' media='all' />
+<link rel='stylesheet' id='jquery.lightbox.min.css-css' href='http://clm.utexas.edu/wp-content/plugins/wp-jquery-lightbox/styles/lightbox.min.css?ver=1.4.8.2' media='all' />
+<script src='http://clm.utexas.edu/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script src='http://clm.utexas.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://clm.utexas.edu/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://clm.utexas.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://clm.utexas.edu/wp-includes/wlwmanifest.xml" />
+
+<noscript><link rel='stylesheet' href='http://clm.utexas.edu/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'></noscript>
+	</head>
+
+
+<body class="error404 wp-custom-logo wp-embed-responsive ct-loading" data-link="type-2" data-prefix="" data-header="type-1:sticky" data-footer="type-1" >
+
+<a class="skip-link show-on-focus" href="#main">
+	Skip to content</a>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div class="ct-drawer-canvas"><div id="offcanvas" class="ct-panel ct-header" data-behaviour="right-side" ><div class="ct-panel-inner">
+		<div class="ct-panel-actions">
+			<button class="ct-toggle-close" data-type="type-1" aria-label="Close drawer">
+				<svg class="ct-icon" width="12" height="12" viewBox="0 0 15 15"><path d="M1 15a1 1 0 01-.71-.29 1 1 0 010-1.41l5.8-5.8-5.8-5.8A1 1 0 011.7.29l5.8 5.8 5.8-5.8a1 1 0 011.41 1.41l-5.8 5.8 5.8 5.8a1 1 0 01-1.41 1.41l-5.8-5.8-5.8 5.8A1 1 0 011 15z"/></svg>
+			</button>
+		</div>
+		<div class="ct-panel-content" data-device="desktop" ></div><div class="ct-panel-content" data-device="mobile" >
+<nav
+	class="mobile-menu has-submenu"
+	data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1" 	aria-label="Off Canvas Menu">
+	<ul id="menu-main-menu-1" role="menubar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5400668" role="none"><a href="https://clm.utexas.edu/" class="ct-menu-link" role="menuitem">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400670" role="none"><a href="https://clm.utexas.edu/about-clm/" class="ct-menu-link" role="menuitem">About CLM</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400672" role="none"><a href="https://clm.utexas.edu/contact/" class="ct-menu-link" role="menuitem">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400673" role="none"><span class="ct-sub-menu-parent"><a href="https://clm.utexas.edu/education-training/" class="ct-menu-link" role="menuitem">Education &#038; Training</a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ><svg class="ct-icon toggle-icon-1" width="15" height="15" viewBox="0 0 15 15"><path d="M3.9,5.1l3.6,3.6l3.6-3.6l1.4,0.7l-5,5l-5-5L3.9,5.1z"/></svg></button></span>
+<ul class="sub-menu" role="menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400683" role="none"><span class="ct-sub-menu-parent"><a href="https://clm.utexas.edu/graduate-education/" class="ct-menu-link" role="menuitem">Graduate Program</a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ><svg class="ct-icon toggle-icon-1" width="15" height="15" viewBox="0 0 15 15"><path d="M3.9,5.1l3.6,3.6l3.6-3.6l1.4,0.7l-5,5l-5-5L3.9,5.1z"/></svg></button></span>
+	<ul class="sub-menu" role="menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400676" role="none"><a href="https://clm.utexas.edu/education-training/graduate/" class="ct-menu-link" role="menuitem">Graduate Education</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400684" role="none"><span class="ct-sub-menu-parent"><a href="https://clm.utexas.edu/undergraduate-education/" class="ct-menu-link" role="menuitem">Undergraduate Degree</a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ><svg class="ct-icon toggle-icon-1" width="15" height="15" viewBox="0 0 15 15"><path d="M3.9,5.1l3.6,3.6l3.6-3.6l1.4,0.7l-5,5l-5-5L3.9,5.1z"/></svg></button></span>
+	<ul class="sub-menu" role="menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400678" role="none"><a href="https://clm.utexas.edu/education-training/undergraduat/" class="ct-menu-link" role="menuitem">Undergraduate Education</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400675" role="none"><span class="ct-sub-menu-parent"><a href="https://clm.utexas.edu/faculty-research/" class="ct-menu-link" role="menuitem">Faculty &#038; Research</a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ><svg class="ct-icon toggle-icon-1" width="15" height="15" viewBox="0 0 15 15"><path d="M3.9,5.1l3.6,3.6l3.6-3.6l1.4,0.7l-5,5l-5-5L3.9,5.1z"/></svg></button></span>
+<ul class="sub-menu" role="menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5400781" role="none"><a href="/faculty/" class="ct-menu-link" role="menuitem">Faculty</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400680" role="none"><a href="https://clm.utexas.edu/faculty-research/faculty-directory/" class="ct-menu-link" role="menuitem">Quick Faculty Directory</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400682" role="none"><span class="ct-sub-menu-parent"><a href="https://clm.utexas.edu/publications/recent-clm-publications/" class="ct-menu-link" role="menuitem">Recent CLM Publications</a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ><svg class="ct-icon toggle-icon-1" width="15" height="15" viewBox="0 0 15 15"><path d="M3.9,5.1l3.6,3.6l3.6-3.6l1.4,0.7l-5,5l-5-5L3.9,5.1z"/></svg></button></span>
+	<ul class="sub-menu" role="menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400681" role="none"><a href="https://clm.utexas.edu/publications/" class="ct-menu-link" role="menuitem">Recent Highlighted Publications</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400671" role="none"><a href="https://clm.utexas.edu/calendar/" class="ct-menu-link" role="menuitem">Calendar</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-5400669" role="none"><span class="ct-sub-menu-parent"><a href="https://clm.utexas.edu/news-events/" class="ct-menu-link" role="menuitem">News &#038; Events</a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ><svg class="ct-icon toggle-icon-1" width="15" height="15" viewBox="0 0 15 15"><path d="M3.9,5.1l3.6,3.6l3.6-3.6l1.4,0.7l-5,5l-5-5L3.9,5.1z"/></svg></button></span>
+<ul class="sub-menu" role="menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400674" role="none"><span class="ct-sub-menu-parent"><a href="https://clm.utexas.edu/acf_event-information/" class="ct-menu-link" role="menuitem">Event Information</a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ><svg class="ct-icon toggle-icon-1" width="15" height="15" viewBox="0 0 15 15"><path d="M3.9,5.1l3.6,3.6l3.6-3.6l1.4,0.7l-5,5l-5-5L3.9,5.1z"/></svg></button></span>
+	<ul class="sub-menu" role="menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400685" role="none"><a href="https://clm.utexas.edu/aclm/" class="ct-menu-link" role="menuitem">ACL&#038;M</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400686" role="none"><a href="https://clm.utexas.edu/memory-matters/" class="ct-menu-link" role="menuitem">Memory Matters</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul></nav>
+
+
+<nav
+	class="mobile-menu"
+	data-id="mobile-menu-secondary" data-interaction="click" data-toggle-type="type-1" 	aria-label="Off Canvas Menu">
+	<ul id="menu-ancillary-menu-1" role="menubar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400706" role="none"><a href="https://clm.utexas.edu/contact/" class="ct-menu-link" role="menuitem">Contact<span class="ct-icon-container ct-right"><svg width="20" height="20" viewBox="0,0,512,512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z" /></svg></span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400705" role="none"><a href="https://clm.utexas.edu/calendar/" class="ct-menu-link" role="menuitem">Calendar<span class="ct-icon-container ct-right"><svg width="20" height="20" viewBox="0,0,448,512"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z" /></svg></span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5400737" role="none"><a href="https://neuroscience.utexas.edu/component/cobalt/category-items/1-directory/17-neuroscience?Itemid=1258" class="ct-menu-link" role="menuitem">Faculty &#038; Staff Directory<span class="ct-icon-container ct-right"><svg width="20" height="20" viewBox="0,0,512,512"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z" /></svg></span></a></li>
+</ul></nav>
+
+</div></div></div>
+	<a href="#main-container" class="ct-back-to-top ct-hidden-sm"
+		data-shape="square"
+		data-alignment="right"
+		title="Go to top" aria-label="Go to top">
+
+		<svg class="ct-icon" width="15" height="15" viewBox="0 0 20 20"><path d="M10,0L9.4,0.6L0.8,9.1l1.2,1.2l7.1-7.1V20h1.7V3.3l7.1,7.1l1.2-1.2l-8.5-8.5L10,0z"/></svg>	</a>
+
+	</div>
+<div id="main-container">
+	<header id="header" class="ct-header" data-id="type-1" itemscope="" itemtype="https://schema.org/WPHeader" ><div data-device="desktop" ><div class="ct-sticky-container"><div data-sticky="shrink"><div data-row="top" data-column-set="2" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
+<div
+	class="ct-header-text "
+	data-id="text" >
+	<div class="entry-content">
+		<p><a href="https://clm.utexas.edu/wp-content/uploads/2023/06/The_University_of_Texas_at_Austin_Logo.svg"><img class="aligncenter wp-image-5400692 size-full" src="https://clm.utexas.edu/wp-content/uploads/2023/06/The_University_of_Texas_at_Austin_Logo.svg" alt="" /></a></p>	</div>
+</div>
+</div></div><div data-column="end" data-placements="1" ><div data-items="primary" >
+<nav
+	id="header-menu-2"
+	class="header-menu-2"
+	data-id="menu-secondary" data-interaction="hover" 	data-menu="type-1"
+	data-dropdown="type-1:simple"		data-responsive="no"	itemscope="" itemtype="https://schema.org/SiteNavigationElement" 	aria-label="Header Menu">
+
+	<ul id="menu-ancillary-menu" class="menu" role="menubar"><li id="menu-item-5400706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400706" role="none"><a href="https://clm.utexas.edu/contact/" class="ct-menu-link" role="menuitem">Contact<span class="ct-icon-container ct-right"><svg width="20" height="20" viewBox="0,0,512,512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z" /></svg></span></a></li>
+<li id="menu-item-5400705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400705" role="none"><a href="https://clm.utexas.edu/calendar/" class="ct-menu-link" role="menuitem">Calendar<span class="ct-icon-container ct-right"><svg width="20" height="20" viewBox="0,0,448,512"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z" /></svg></span></a></li>
+<li id="menu-item-5400737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5400737" role="none"><a href="https://neuroscience.utexas.edu/component/cobalt/category-items/1-directory/17-neuroscience?Itemid=1258" class="ct-menu-link" role="menuitem">Faculty &#038; Staff Directory<span class="ct-icon-container ct-right"><svg width="20" height="20" viewBox="0,0,512,512"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z" /></svg></span></a></li>
+</ul></nav>
+
+</div></div></div></div><div data-row="middle" data-column-set="2" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
+<div	class="site-branding"
+	data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" >
+
+			<a href="https://clm.utexas.edu/" class="site-logo-container" rel="home"><img width="650" height="93" src="https://clm.utexas.edu/wp-content/uploads/2023/06/logo-clm.png" class="sticky-logo" alt="Center for Learning and Memory" /><img width="650" height="93" src="https://clm.utexas.edu/wp-content/uploads/2023/06/logo-clm.png" class="default-logo" alt="Center for Learning and Memory" /></a>	
+	</div>
+
+</div></div><div data-column="end" data-placements="1" ><div data-items="primary" >
+<div
+	class="ct-search-box "
+	data-id="search-input" >
+
+	
+
+<form role="search" method="get" class="search-form" action="https://clm.utexas.edu/" aria-haspopup="listbox" data-live-results="">
+
+	<input type="search"  placeholder="Search CLM" value="" name="s" autocomplete="off" title="Search for..." aria-label="Search for...">
+
+	<button type="submit" class="search-submit" aria-label="Search button">
+		<svg class="ct-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15"><path d="M14.8,13.7L12,11c0.9-1.2,1.5-2.6,1.5-4.2c0-3.7-3-6.8-6.8-6.8S0,3,0,6.8s3,6.8,6.8,6.8c1.6,0,3.1-0.6,4.2-1.5l2.8,2.8c0.1,0.1,0.3,0.2,0.5,0.2s0.4-0.1,0.5-0.2C15.1,14.5,15.1,14,14.8,13.7z M1.5,6.8c0-2.9,2.4-5.2,5.2-5.2S12,3.9,12,6.8S9.6,12,6.8,12S1.5,9.6,1.5,6.8z"/></svg>
+		<span data-loader="circles"><span></span><span></span><span></span></span>
+	</button>
+
+	
+			<input type="hidden" name="ct_post_type" value="post:page:faculty:home_feature:tangible_template:tangible_layout:tangible_style:tangible_script">
+	
+	
+			<div class="screen-reader-text" aria-live="polite" role="status">
+			No results		</div>
+	
+</form>
+
+
+</div>
+
+<div
+	class="ct-header-cta"
+	data-id="button" >
+	<a
+		href="https://utdirect.utexas.edu/apps/utgiving/online/nlogon/?menu1=NSNZ"
+		class="ct-button"
+		data-size="large" aria-label="Make a Gift" >
+		Make a Gift	</a>
+</div>
+</div></div></div></div><div data-row="bottom" data-column-set="1" ><div class="ct-container" ><div data-column="middle" ><div data-items="" >
+<nav
+	id="header-menu-1"
+	class="header-menu-1"
+	data-id="menu" data-interaction="hover" 	data-menu="type-1"
+	data-dropdown="type-1:simple"	data-stretch	data-responsive="no"	itemscope="" itemtype="https://schema.org/SiteNavigationElement" 	aria-label="Header Menu">
+
+	<ul id="menu-main-menu" class="menu" role="menubar"><li id="menu-item-5400668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5400668" role="none"><a href="https://clm.utexas.edu/" class="ct-menu-link" role="menuitem">Home</a></li>
+<li id="menu-item-5400670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400670" role="none"><a href="https://clm.utexas.edu/about-clm/" class="ct-menu-link" role="menuitem">About CLM</a></li>
+<li id="menu-item-5400672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400672" role="none"><a href="https://clm.utexas.edu/contact/" class="ct-menu-link" role="menuitem">Contact</a></li>
+<li id="menu-item-5400673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400673 animated-submenu" role="none"><a href="https://clm.utexas.edu/education-training/" class="ct-menu-link" role="menuitem">Education &#038; Training<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" width="8" height="8" viewBox="0 0 15 15"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"/></svg></span></a><button class="ct-toggle-dropdown-desktop-ghost" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ></button>
+<ul class="sub-menu" role="menu">
+	<li id="menu-item-5400683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400683 animated-submenu" role="none"><a href="https://clm.utexas.edu/graduate-education/" class="ct-menu-link" role="menuitem">Graduate Program<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" width="8" height="8" viewBox="0 0 15 15"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"/></svg></span></a><button class="ct-toggle-dropdown-desktop-ghost" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ></button>
+	<ul class="sub-menu" role="menu">
+		<li id="menu-item-5400676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400676" role="none"><a href="https://clm.utexas.edu/education-training/graduate/" class="ct-menu-link" role="menuitem">Graduate Education</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5400684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400684 animated-submenu" role="none"><a href="https://clm.utexas.edu/undergraduate-education/" class="ct-menu-link" role="menuitem">Undergraduate Degree<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" width="8" height="8" viewBox="0 0 15 15"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"/></svg></span></a><button class="ct-toggle-dropdown-desktop-ghost" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ></button>
+	<ul class="sub-menu" role="menu">
+		<li id="menu-item-5400678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400678" role="none"><a href="https://clm.utexas.edu/education-training/undergraduat/" class="ct-menu-link" role="menuitem">Undergraduate Education</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5400675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400675 animated-submenu" role="none"><a href="https://clm.utexas.edu/faculty-research/" class="ct-menu-link" role="menuitem">Faculty &#038; Research<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" width="8" height="8" viewBox="0 0 15 15"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"/></svg></span></a><button class="ct-toggle-dropdown-desktop-ghost" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ></button>
+<ul class="sub-menu" role="menu">
+	<li id="menu-item-5400781" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5400781" role="none"><a href="/faculty/" class="ct-menu-link" role="menuitem">Faculty</a></li>
+	<li id="menu-item-5400680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400680" role="none"><a href="https://clm.utexas.edu/faculty-research/faculty-directory/" class="ct-menu-link" role="menuitem">Quick Faculty Directory</a></li>
+	<li id="menu-item-5400682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400682 animated-submenu" role="none"><a href="https://clm.utexas.edu/publications/recent-clm-publications/" class="ct-menu-link" role="menuitem">Recent CLM Publications<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" width="8" height="8" viewBox="0 0 15 15"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"/></svg></span></a><button class="ct-toggle-dropdown-desktop-ghost" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ></button>
+	<ul class="sub-menu" role="menu">
+		<li id="menu-item-5400681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400681" role="none"><a href="https://clm.utexas.edu/publications/" class="ct-menu-link" role="menuitem">Recent Highlighted Publications</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5400671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400671" role="none"><a href="https://clm.utexas.edu/calendar/" class="ct-menu-link" role="menuitem">Calendar</a></li>
+<li id="menu-item-5400669" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-5400669 animated-submenu" role="none"><a href="https://clm.utexas.edu/news-events/" class="ct-menu-link" role="menuitem">News &#038; Events<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" width="8" height="8" viewBox="0 0 15 15"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"/></svg></span></a><button class="ct-toggle-dropdown-desktop-ghost" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ></button>
+<ul class="sub-menu" role="menu">
+	<li id="menu-item-5400674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5400674 animated-submenu" role="none"><a href="https://clm.utexas.edu/acf_event-information/" class="ct-menu-link" role="menuitem">Event Information<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" width="8" height="8" viewBox="0 0 15 15"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"/></svg></span></a><button class="ct-toggle-dropdown-desktop-ghost" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem" ></button>
+	<ul class="sub-menu" role="menu">
+		<li id="menu-item-5400685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400685" role="none"><a href="https://clm.utexas.edu/aclm/" class="ct-menu-link" role="menuitem">ACL&#038;M</a></li>
+		<li id="menu-item-5400686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5400686" role="none"><a href="https://clm.utexas.edu/memory-matters/" class="ct-menu-link" role="menuitem">Memory Matters</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul></nav>
+
+</div></div></div></div></div></div></div><div data-device="mobile" ><div class="ct-sticky-container"><div data-sticky="shrink"><div data-row="middle" data-column-set="2" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
+<div	class="site-branding"
+	data-id="logo" 		>
+
+			<a href="https://clm.utexas.edu/" class="site-logo-container" rel="home"><img width="650" height="93" src="https://clm.utexas.edu/wp-content/uploads/2023/06/logo-clm.png" class="sticky-logo" alt="Center for Learning and Memory" /><img width="650" height="93" src="https://clm.utexas.edu/wp-content/uploads/2023/06/logo-clm.png" class="default-logo" alt="Center for Learning and Memory" /></a>	
+	</div>
+
+</div></div><div data-column="end" data-placements="1" ><div data-items="primary" >
+<button
+	data-toggle-panel="#offcanvas"
+	class="ct-header-trigger ct-toggle "
+	data-design="simple"
+	data-label="right"
+	aria-label="Open off canvas"
+	data-id="trigger" >
+
+	<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Menu</span>
+
+	<svg
+		class="ct-icon"
+		width="18" height="14" viewBox="0 0 18 14"
+		aria-hidden="true"
+		data-type="type-1">
+
+		<rect y="0.00" width="18" height="1.7" rx="1"/>
+		<rect y="6.15" width="18" height="1.7" rx="1"/>
+		<rect y="12.3" width="18" height="1.7" rx="1"/>
+	</svg>
+</button>
+</div></div></div></div></div></div></div></header>
+	<main id="main" class="site-main hfeed" >
+
+		<div class="ct-container" data-vertical-spacing="top:bottom">
+	<section class="ct-no-results">
+
+		<section class="hero-section" data-type="type-1">
+			<header class="entry-header">
+				<h1 class="page-title" itemprop="headline">
+					Oops! That page can&rsquo;t be found.	
+				</h1>
+
+				<div class="page-description">
+					It looks like nothing was found at this location. Maybe try to search for something else?				</div>
+			</header>
+		</section>
+
+		<div class="entry-content">
+			
+
+<form role="search" method="get" class="search-form" action="https://clm.utexas.edu/" aria-haspopup="listbox" data-live-results="thumbs">
+
+	<input type="search"  placeholder="Search" value="" name="s" autocomplete="off" title="Search for..." aria-label="Search for...">
+
+	<button type="submit" class="search-submit" aria-label="Search button">
+		<svg class="ct-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15"><path d="M14.8,13.7L12,11c0.9-1.2,1.5-2.6,1.5-4.2c0-3.7-3-6.8-6.8-6.8S0,3,0,6.8s3,6.8,6.8,6.8c1.6,0,3.1-0.6,4.2-1.5l2.8,2.8c0.1,0.1,0.3,0.2,0.5,0.2s0.4-0.1,0.5-0.2C15.1,14.5,15.1,14,14.8,13.7z M1.5,6.8c0-2.9,2.4-5.2,5.2-5.2S12,3.9,12,6.8S9.6,12,6.8,12S1.5,9.6,1.5,6.8z"/></svg>
+		<span data-loader="circles"><span></span><span></span><span></span></span>
+	</button>
+
+	
+	
+	
+			<div class="screen-reader-text" aria-live="polite" role="status">
+			No results		</div>
+	
+</form>
+
+
+		</div>
+
+	</section>
+</div>	</main>
+
+	<footer id="footer" class="ct-footer" data-id="type-1" itemscope="" itemtype="https://schema.org/WPFooter" ><div data-row="middle" ><div class="ct-container" ><div data-column="widget-area-1" ><div class="ct-widget widget_text" id="text-6"><h2 class="widget-title">Center for Learning and Memory</h2>			<div class="textwidget entry-content"><ul>
+<li><a href="https://goo.gl/maps/5S4RE1BnANnwrTa69" target="_blank" rel="noopener">100 East 24th St., Austin, TX 78712</a></li>
+<li><a href="tel:15122326564">+1 512 232-6564</a></li>
+</ul>
+</div>
+		</div></div><div data-column="ghost"></div><div data-column="ghost"></div></div></div><div data-row="bottom" ><div class="ct-container" data-columns-divider="md:sm" ><div data-column="copyright" >
+<div
+	class="ct-footer-copyright"
+	data-id="copyright" >
+
+	<p>Copyright © 2024 Center for Learning and Memory - WordPress Theme by <a href="https://friendlywp.com/" target="_blank" rel="noopener">Friendly Web Consulting</a></p></div>
+</div></div></div></footer></div>
+
+<script id='ct-scripts-js-extra'>
+var ct_localizations = {"ajax_url":"https:\/\/clm.utexas.edu\/wp-admin\/admin-ajax.php","nonce":"2ea85754a4","public_url":"http:\/\/clm.utexas.edu\/wp-content\/themes\/blocksy\/static\/bundle\/","rest_url":"https:\/\/clm.utexas.edu\/wp-json\/","search_url":"https:\/\/clm.utexas.edu\/search\/QUERY_STRING\/","show_more_text":"Show more","more_text":"More","search_live_results":"Search results","search_live_no_result":"No results","search_live_one_result":"You got %s result. Please press Tab to select it.","search_live_many_results":"You got %s results. Please press Tab to select one.","expand_submenu":"Expand dropdown menu","collapse_submenu":"Collapse dropdown menu","dynamic_js_chunks":[{"id":"blocksy_pro_micro_popups","selector":".ct-popup","url":"http:\/\/clm.utexas.edu\/wp-content\/plugins\/blocksy-companion-pro\/framework\/premium\/static\/bundle\/micro-popups.js"},{"id":"blocksy_adv_cpt_read_progress","selector":".ct-read-progress-bar","url":"http:\/\/clm.utexas.edu\/wp-content\/plugins\/blocksy-companion-pro\/framework\/premium\/extensions\/post-types-extra\/static\/bundle\/read-progress.js"},{"id":"blocksy_adv_cpt_filtering","selector":".ct-dynamic-filter a","trigger":"click","url":"http:\/\/clm.utexas.edu\/wp-content\/plugins\/blocksy-companion-pro\/framework\/premium\/extensions\/post-types-extra\/static\/bundle\/filtering.js"},{"id":"blocksy_adv_cpt_filtering","selector":".ct-dynamic-filter, .ct-dynamic-filter + .entries","trigger":"hover","url":"http:\/\/clm.utexas.edu\/wp-content\/plugins\/blocksy-companion-pro\/framework\/premium\/extensions\/post-types-extra\/static\/bundle\/filtering.js"},{"id":"blocksy_dark_mode","selector":"[data-id=\"dark-mode-switcher\"]","url":"http:\/\/clm.utexas.edu\/wp-content\/plugins\/blocksy-companion-pro\/static\/bundle\/dark-mode.js","trigger":"click"},{"id":"blocksy_sticky_header","selector":"header [data-sticky]","url":"http:\/\/clm.utexas.edu\/wp-content\/plugins\/blocksy-companion-pro\/static\/bundle\/sticky.js"}],"dynamic_styles":{"lazy_load":"http:\/\/clm.utexas.edu\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-styles.min.css","search_lazy":"http:\/\/clm.utexas.edu\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-search-styles.min.css"},"dynamic_styles_selectors":[{"selector":"#account-modal","url":"http:\/\/clm.utexas.edu\/wp-content\/plugins\/blocksy-companion-pro\/static\/bundle\/account-lazy.min.css"}]};
+var WP_DEBUG = {"debug":"1"};
+</script>
+<script src='http://clm.utexas.edu/wp-content/themes/blocksy/static/bundle/main.js?ver=1.8.92' id='ct-scripts-js'></script>
+<script src='http://clm.utexas.edu/wp-content/plugins/wp-jquery-lightbox/jquery.touchwipe.min.js?ver=1.4.8.2' id='wp-jquery-lightbox-swipe-js'></script>
+<script id='wp-jquery-lightbox-js-extra'>
+var JQLBSettings = {"showTitle":"1","showCaption":"1","showNumbers":"1","fitToScreen":"1","resizeSpeed":"400","showDownload":"0","navbarOnTop":"0","marginSize":"0","slideshowSpeed":"4000","prevLinkTitle":"previous image","nextLinkTitle":"next image","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","pause":"(pause slideshow)","play":"(play slideshow)"};
+</script>
+<script src='http://clm.utexas.edu/wp-content/plugins/wp-jquery-lightbox/jquery.lightbox.min.js?ver=1.4.8.2' id='wp-jquery-lightbox-js'></script>
+
+</body>
+</html>

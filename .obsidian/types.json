@@ -1,0 +1,20 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "": "text",
+    "lecture-date": "date",
+    "creation-date": "text",
+    "Week": "number",
+    "Lecture2": "checkbox",
+    "Lecture1": "checkbox",
+    "Exercises": "checkbox",
+    "Credits": "number",
+    "Chapters": "multitext",
+    "Author": "multitext",
+    "Themes": "multitext",
+    "id": "number",
+    "Quiz": "checkbox"
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "f3c2797a9f1c4af1",
+    "type": "split",
+    "children": [
+      {
+        "id": "acc9f2357b1da2e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ba095745a3b8f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e2750bf6f3e0964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13574023c99d565e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1d0e6d09f9b81372",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "61eb48135a9f311c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8bdfff1b2ada646e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "76f94585b117ae8b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "46147853cae922d8",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "da6bb227bd4d7260",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d95cc6caa27ffe74",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cdf73b76b362d2ed",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e9ccc4f0a32f5b99",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md"
+          }
+        }
+      },
+      {
+        "id": "c6ee86c64d20bb31",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7e2750bf6f3e0964",
+  "lastOpenFiles": [
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240306094411.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240306083107.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240305134816.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240306095042.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240306094837.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240306115022.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 2.md",
+    "EPFL/Bachelor/BA6.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240228094929.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240226104214.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240226102153.png",
+    "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
+    "Pasted image 20240228115112.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240228083121.png",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 1.md",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/CS-232 - Introduction to Machine Learning.md",
+    "EPFL/Bachelor/SC - BA4/SC - BA4.md",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Sources/Get Prepped for Tech PPT Deck 9-29-22_withTechExample.pdf",
+    "Personal/Articles/The demise of the oil industry.md",
+    "Personal/Reading/Articles/Seba Technology Disruption Framework.md",
+    "Personal/Reading/Articles/RethinkX - Rethinking food and agriculture 2020-2030.md",
+    "Personal/Reading/Articles/Precision Fermentation.md",
+    "Personal/Investments/Tesla/Earnings/Q4 2023.md",
+    "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 20.md",
+    "Personal/Techniques/Deep Read.md",
+    "BA6.md",
+    "Personal/Daily Papers/Master Daily Papers Registory.md",
+    "Personal/Daily Papers/2024-01-11.md",
+    "Personal/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/22_Optimization/[25]_Han,_Song,_Huizi_Mao,_and_William_J_Dally_Deep_compression__Compressing_deep_neural_network_with_pruning,_trained_quantization_and_huffman_coding_CoRR,_abs_151000149_2_(2015)_.pdf",
+    "Personal/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/3_Applications/32_Object_Detection/[4]_Girshick,_Ross_Fast_r-cnn_Proceedings_of_the_IEEE_International_Conference_on_Computer_Vision_2015_.pdf",
+    "Personal/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/21_Model/[18]_Courbariaux,_Matthieu,_et_al_Binarized_Neural_Networks__Training_Neural_Networks_with_Weights_and_Activations_Constrained_to+_1_or−1_.pdf",
+    "Personal/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/25_Neural_Turing_Machine/[41]_Zaremba,_Wojciech,_and_Ilya_Sutskever_Reinforcement_learning_neural_Turing_machines_arXiv_preprint_arXiv_150500521_362_(2015)_.pdf",
+    "Personal/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/21_Model/[21]_Wei,_Tao,_et_al_Network_Morphism_arXiv_preprint_arXiv_160301670_(2016)_.pdf",
+    "Personal/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/25_Neural_Turing_Machine/[45]_Graves,_Alex,_et_al_Hybrid_computing_using_a_neural_network_with_dynamic_external_memory_Nature_(2016)_.pdf",
+    "Personal/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/26_Deep_Reinforcement_Learning/[53]_Silver,_David,_et_al_Mastering_the_game_of_Go_with_deep_neural_networks_and_tree_search_Nature_5297587_(2016)__484-489_.pdf",
+    "Personal/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/3_Applications/33_Visual_Tracking/[5]_Bertinetto,_Luca,_et_al_Fully-Convolutional_Siamese_Networks_for_Object_Tracking_arXiv_preprint_arXiv_160609549_(2016)_.pdf",
+    "Personal/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/3_Applications/37_Art/[1]_Mordvintsev,_Alexander;_Olah,_Christopher;_Tyka,_Mike_(2015)_Inceptionism__Going_Deeper_into_Neural_Networks_Google_Research_.html",
+    "EPFL/EPFL - Road to Mastery.md",
+    "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV.md",
+    "Untitled.canvas",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems.md",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I.md",
+    "Deep Learning.md",
+    "Getting back into it.md",
+    "Open-source.md"
+  ]
+}

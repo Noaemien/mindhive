@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "e2bb167b33621d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb6f54834272666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9b45d0221c48ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69471e7846c11b09",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313094425.png"
+              }
+            }
+          },
+          {
+            "id": "ee02ec12ad32e2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b56ca2a1d53a4882",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f37eafc272b045e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2876d957db381d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b927a271d814efe4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49fcc4825ac0b829",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "2ff22c035c1307f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7852b5708b82536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57cb1c576b09c258",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1ab3f43dd459cfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b59f2bf374c89798",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8179c5cf9dcb4279",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md"
+              }
+            }
+          },
+          {
+            "id": "743025d9512028f1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d158c2dd4ec783f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md"
+              }
+            }
+          },
+          {
+            "id": "3c39ecbb3fe8ddc8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d2876d957db381d7",
+  "lastOpenFiles": [
+    "README.md",
+    "Personal/Reading/Daily Papers/Master Daily Papers Registory.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 4.md",
+    "EPFL/EPFL - Road to Masters.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Ressource sharing.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Memory Management Unit (MMU).md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Central Processing Unit (CPU).md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313094425.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313093028.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313082836.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240312211634.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240312210618.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 4.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/processMemorySegments.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 2.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240312144844.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240312140131.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240312132719.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240312132500.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Untitled.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 3.md",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 4.md",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 1.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/CS-202 - Computer Systems.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 3.md",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 3.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 2.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md",
+    "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/MATH-207 - Analyse IV.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 1.md",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/CS-232 - Introduction to Machine Learning.md",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/Deep Learning Papers Reading Roadmap.md",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/21_Model/[15]_Srivastava,_Nitish,_et_al_Dropout__a_simple_way_to_prevent_neural_networks_from_overfitting_Journal_of_Machine_Learning_Research_151_(2014)__1929-1958_.pdf",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/21_Model/[14]_Hinton,_Geoffrey_E,_et_al_Improving_neural_networks_by_preventing_co-adaptation_of_feature_detectors_arXiv_preprint_arXiv_12070580_(2012)_.pdf",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdf.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources",
+    "EPFL/Bachelor/SC - BA4/Intro to sv",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Ressources/Get Prepped for Tech PPT Deck 9-29-22_withTechExample.pdf",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/1_Deep_Learning_History_and_Basics/12_Deep_Belief_Network(DBN)(Milestone_of_Deep_Learning_Eve)/[2]_Hinton,_Geoffrey_E,_Simon_Osindero,_and_Yee-Whye_Teh_A_fast_learning_algorithm_for_deep_belief_nets_Neural_computation_187_(2006)__1527-1554_.pdf",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Ressources",
+    "Personal/Reading/Daily Papers/Notes",
+    "Untitled.canvas"
+  ]
+}
