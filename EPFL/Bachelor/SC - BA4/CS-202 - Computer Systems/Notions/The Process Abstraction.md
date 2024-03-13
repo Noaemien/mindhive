@@ -3,7 +3,7 @@ aliases:
   - process
   - Processes
 ---
-Abstraction provides an interface to application programmers that separates policy from mechanism.
+2Abstraction provides an interface to application programmers that separates policy from mechanism.
 It does this by:
 - hiding unwanted properties
 - adding new capabilities
@@ -104,17 +104,17 @@ Also known as `task_struct` on linux
 
 # Process API
 Main methods
-
-## fork()
+## Commands
+### fork()
 Executes a child process that is a copy of the parent process.
 Child has a different process ID
-Returns child PID (as an int):
+**Returns** child PID (as an int):
 - If executing in parent process:
 	- returns pid > 0 if child is created
 	- returns pid -1 if there is an error. The new process is not created
 - returns 0 if executing in child process
 
-### Execution
+#### Execution
 - OS allocates data structures for the child process
 - OS makes a copy of the caller's (parent) memory / address space
 - OS also copies other states, such as [[File Descriptors|file descriptors]], from the parent process
@@ -122,7 +122,7 @@ Returns child PID (as an int):
 - Parent and child execute in their **own separate copy** of the memory
 - `fork`is implemented by the OS
 
-## exec()
+### exec()
 Executes a new program within the current process, replacing the previous executable program.
 
 Replaces the memory (address space), loads new program from the disk --> Code, data, heap and stack are replaced by new program.
@@ -132,8 +132,29 @@ Only PID and STDIN, STDOUT and STDERR which allows parent to redirect/rewire chi
 The new program can pass command line arguments and environment (can inherit them from parent).
 
 Commonly used after fork() to start a new program.
-## exit()
-Terminates the current process
+### exit()
+When a process terminates, it executes exit(), either directly on its own, or indirectly via library code
 
-## wait()
-Blocks the current process until the child terminates
+Resumes execution of waiting parent process
+
+**Returns nothing**
+
+### wait()
+A parent process uses `wait()` to *suspend its execution* until one of its children terminates. The parent process then gets the exit status of the terminated child()
+
+If no child is running then wait() has no effect
+
+**Returns**:
+- PID of terminated child process
+- -1 if parent has no children processes
+
+## Implications
+
+Process Termination Scenarios:
+- It calls `exit()` on itself
+- OS terminates a misbehaving process
+
+Terminated process exists as a zombie.
+When a parent process calls `wait()`, the zombie child is cleaned up or **reaped** (removed from the process table to prevent the accumulation of zombie processes and ensure efficient resource management )
+If a parent terminates before child, the child becomes an **orphan**
+**init** (pid: 1) process adopts orphans and reaps them
