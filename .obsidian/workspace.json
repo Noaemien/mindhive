@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md"
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md"
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md"
               }
             }
           },
@@ -207,20 +207,21 @@
   },
   "active": "868c7991f20e9d4b",
   "lastOpenFiles": [
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 1.pdf",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 2.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Central Processing Unit (CPU).md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Ressource sharing.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 1.pdf",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 2.pdf",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 3.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 3.pdf",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 4.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 4.pdf",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Central Processing Unit (CPU).md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 5.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/contextSwitchProcedure.png",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313094425.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313082836.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313093028.png",
@@ -230,7 +231,6 @@
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240311103509.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240306095042.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240306094837.png",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Ressource sharing.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Memory Management Unit (MMU).md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/System calls.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Limited Direct Execution.md",
@@ -252,7 +252,6 @@
     "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/21_Model/[14]_Hinton,_Geoffrey_E,_et_al_Improving_neural_networks_by_preventing_co-adaptation_of_feature_detectors_arXiv_preprint_arXiv_12070580_(2012)_.pdf",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources",
-    "EPFL/Bachelor/SC - BA4/Intro to sv",
     "Untitled.canvas"
   ]
 }

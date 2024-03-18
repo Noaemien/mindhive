@@ -147,9 +147,26 @@ I/O is generally slow so scheduler should schedule other jobs during I/O
 
 ##### Multi-Level Feedback Queue (MLFQ)
 
+**Goal:** General Purpose Scheduler
+**Challenge:** Supporting long running, CPU intensive jobs (Batch processing) and interactive, low latency foreground tasks (interactive processes)
 
+First *optimizes* average turnaround time
+- Important for batch processes
+Then *minimizes* response time
+- Important for interactive processes
 
+##### Approach: Multiple levels of Round Robin
+Each level has higher priority and preempts lower level
+Process at a higher level will always be scheduled first
+High levels have short time slices, lower levels run longer
 
+Rule 1: if priority(A) > priority(B) then A runs
+Rule 2: if priority(A) == priority(B) then A & B run in RR
+Rule 3: Processes start at top priority
+Rule 4: If a process uses its total time slice, the scheduler lowers its priority
+Rule 5: Periodically moves all jobs to topmost queue (**priority boosting**)
+
+Boosting avoids starvation (long tasks never being scheduled1)
 
 
 #### Idle process
