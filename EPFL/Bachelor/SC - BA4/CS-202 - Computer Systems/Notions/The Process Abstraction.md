@@ -67,9 +67,6 @@ Pointers to open files and descriptors
 
 - **Ready:** OS sets the stage for running the process by transferring the CPU control at beginning of the program's entry point (e.g., main() function)
 
-
-
-
 # Process scheduling
 OS Scheduler picks one of the processes to run
 	- [[Scheduler]] keeps a list of processes
@@ -106,8 +103,13 @@ Also known as `task_struct` on linux
 
 # Process API
 Main methods
-## Commands
-### fork()
+
+## System calls
+
+Each system call has a specific number
+
+### Commands
+#### fork()
 Executes a child process that is a copy of the parent process.
 Child has a different process ID
 **Returns** child PID (as an int):
@@ -116,7 +118,7 @@ Child has a different process ID
 	- returns pid -1 if there is an error. The new process is not created
 - returns 0 if executing in child process
 
-#### Execution
+##### Execution
 - OS allocates data structures for the child process
 - OS makes a copy of the caller's (parent) memory / address space
 - OS also copies other states, such as [[File Descriptors|file descriptors]], from the parent process
@@ -124,7 +126,7 @@ Child has a different process ID
 - Parent and child execute in their **own separate copy** of the memory
 - `fork`is implemented by the OS
 
-### exec()
+#### exec()
 Executes a new program within the current process, replacing the previous executable program.
 
 Replaces the memory (address space), loads new program from the disk --> Code, data, heap and stack are replaced by new program.
@@ -134,14 +136,14 @@ Only PID and STDIN, STDOUT and STDERR which allows parent to redirect/rewire chi
 The new program can pass command line arguments and environment (can inherit them from parent).
 
 Commonly used after fork() to start a new program.
-### exit()
+#### exit()
 When a process terminates, it executes exit(), either directly on its own, or indirectly via library code
 
 Resumes execution of waiting parent process
 
 **Returns nothing**
 
-### wait()
+#### wait()
 A parent process uses `wait()` to *suspend its execution* until one of its children terminates. The parent process then gets the exit status of the terminated child()
 
 If no child is running then wait() has no effect
@@ -150,7 +152,7 @@ If no child is running then wait() has no effect
 - PID of terminated child process
 - -1 if parent has no children processes
 
-## Implications
+#### Implications
 
 Process Termination Scenarios:
 - It calls `exit()` on itself
@@ -160,3 +162,28 @@ Terminated process exists as a zombie.
 When a parent process calls `wait()`, the zombie child is cleaned up or **reaped** (removed from the process table to prevent the accumulation of zombie processes and ensure efficient resource management )
 If a parent terminates before child, the child becomes an **orphan**
 **init** (pid: 1) process adopts orphans and reaps them
+
+
+Transfer execution to OS, during this time the process is paused.
+
+### Execution steps
+- Process executes a special **trap** instruction
+	- Process states are saved onto per-process-stack (Instruction pointer, flags, general purpose registers)
+	- CPU jumps into kernel mode and raises the privilege level at the same time
+	- Now privileged operations can be performed
+- When finished OS executes return-from-trap instruction
+	- CPU returns to calling process and lowers privilege level
+	- Restores states of process
+	- privileged operations can no longer be performed
+
+### Traps (Exceptions)
+- Handle internal program errors
+	- Overflow, division by zero, accessing not allowed memory regions
+- Exception are produced by CPU while executing instructions
+- **Synchronous**
+- During Trap, kernel code checks validity of system call number and executes corresponding code
+
+#### Trap/Interrupt Table
+OS configures hardware at boot time. What code to execute when certain events happen
+![[Pasted image 20240318150952.png|500]]
+

@@ -69,7 +69,7 @@ Processes execute special **trap instructions** to execute system calls (slide 2
 
 Slide 32 (important)
 ![[Pasted image 20240226102153.png|300]]
-### Traps
+#### Traps
 
 Traps also referred to as exceptions.
 Exceptions produced by CPU while executing instructions.
@@ -78,7 +78,7 @@ Exceptions are synchronous: invoked by CPU only after termination the invocation
 OS configures hardware at boot time (slide 36)
 Requesting OS services using system call numbers (slide 37)
 
-### Interrupts
+#### Interrupts
 
 Hardware provides signaling mechanism for the OS to regain control.
 Interrupts are asynchronous signals to the CPU that some external event has occurred and requires attention.
@@ -87,15 +87,15 @@ Example: Timer interrupt, IO interrupt, inter-processor interrupt
 OS configures the **timer interrupt** to regain control
 Interrupt is fired every certain milliseconds (every 10 ms in Linux kernel)
 With every interrupt, CPU switches from user to kernel mode (context switch) so OS can choose which process to execute
-#### Handling
+##### Handling
 When there is an interrupt:
 - The CPU detects it
 - Suspends the user process and switches to kernel mode
 - Executes the appropriate interrupt handling code
 - Restores the user process
-![[Pasted image 20240226104214.png|400]]
+![[InterruptHandling.png|400]]
 
-#### Concurrent interrupts
+##### Concurrent interrupts
 
 Hardware provides instructions to temporarily delay the delivery of an interrupt (**disable interrupt**), and enable the again when safe
 
@@ -116,7 +116,7 @@ A mechanism that allows the OS to store the current process state and switch to 
 Context of process is represented in the process control block (PCB)
 OS maintains PCB for each process
 
-![[Pasted image 20240228083121.png|400]]
+![[contextSwitchProcedure.png|400]]
 Preemption: OS sets a timer before scheduling a process. Hardware generates interrupt after timer expires
 
 #### Scheduling metrics
