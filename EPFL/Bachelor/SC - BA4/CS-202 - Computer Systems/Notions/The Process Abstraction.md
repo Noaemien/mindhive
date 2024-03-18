@@ -3,7 +3,7 @@ aliases:
   - process
   - Processes
 ---
-2Abstraction provides an interface to application programmers that separates policy from mechanism.
+Abstraction provides an interface to application programmers that separates policy from mechanism.
 It does this by:
 - hiding unwanted properties
 - adding new capabilities
