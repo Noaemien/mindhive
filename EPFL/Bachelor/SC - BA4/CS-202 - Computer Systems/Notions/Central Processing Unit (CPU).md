@@ -1,3 +1,7 @@
+---
+aliases:
+  - CPU
+---
 
 # The von Neumann Architecture
 ## Structure of the CPU
@@ -16,6 +20,10 @@ CPU privileges are necessary for security as they prohibit untrusted actors to p
 Has the ability to perform restricted operations such as I/O related operations.
 #### User Mode
 Restricted access.
+
+#### Context switch
+**User to kernel:** CPU saves registers, to per-process stack, raises privilege level to kernel
+**Kernel to user**: CPU lowers privilege, restores registers
 
 ### [[Memory Management Unit (MMU)]] 
 Circuit contained in CPU that enables the translation of virtual addresses to physical addresses

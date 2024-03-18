@@ -12,7 +12,7 @@ It does this by:
 # What is a process
 A process in an instance of a program. Created when running an Executable file.
 ## Executable files
-**Executable Code**: CPU instructions.
+**Executable Code**: [[Central Processing Unit (CPU) | CPU]] instructions.
 **Data**: Information manipulated by these instructions.
 Obtained by compiling a program.
 ## Differences between process and program
@@ -48,9 +48,11 @@ Read only Text segment contains **code** and **constants**. This is the program 
 
 
 ## CPU context: registers
-- Program counter
+- Program counter:
+	- Points into text segment, current line to execute
 - Current operands
-- Stack pointer
+- Stack pointer:
+	- Points to top of stack
 
 ## File descriptors
 Pointers to open files and descriptors
@@ -86,7 +88,7 @@ The process is ready to run but for some reason CPU has not chosen to run it yet
 The process triggered an operation that makes it not ready to run because it is waiting on the completion of a another event. Example: Process gets blocked for an I/O request to disk.
 
 ## State Transitions
-![[processStateTransition.png]]
+![[processStateTransition.png|600]]
 
 
 

@@ -170,7 +170,7 @@ Each file has a human readable format: **file name**
 Files are organized into hierarchies of directories: **pathname**
 - A file name is unique locally to a directory; a full pathname is globally unique
 Modern file systems mostly use untyped files: array of bytes
-- File is a seqence of bytes
+- File is a sequence of bytes
 - OS/file system does neither understand nor care about contents
 
 **Path to inode**
