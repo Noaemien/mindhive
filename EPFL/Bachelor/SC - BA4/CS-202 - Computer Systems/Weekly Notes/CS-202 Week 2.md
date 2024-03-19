@@ -44,7 +44,7 @@ Enables programs to execute as fast as possible with some restrictions.
 (**Direct execution:** run programs directly on CPU without any restrictions.)
 
 **Limited direct execution with dual mode:**
-![[Pasted image 20240226094526.png|500]]
+![[LimitedDirectExecutioon.png|500]]
 #### Privileged instructions:
 Examples:
 - Access I/O devices

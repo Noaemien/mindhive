@@ -3,9 +3,9 @@ Week: 4
 Themes: 
 aliases: 
 Lecture1: true
-Lecture2: false
+Lecture2: true
 Exercises: false
-Quiz:
+Quiz: true
 ---
 
 # Notes

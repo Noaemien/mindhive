@@ -12,6 +12,8 @@ Controls what happens next
 ### Registers
 The CPU has at least one register, the instruction pointer (IP) (also known as the Program Counter PC) which interprets instructions at address IP
 
+![[vonNeumann.png|500]]
+
 ## Key enhancements
 
 ### Limited Direct Execution (CPU privileges)

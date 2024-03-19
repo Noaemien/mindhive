@@ -185,5 +185,5 @@ Transfer execution to OS, during this time the process is paused.
 
 #### Trap/Interrupt Table
 OS configures hardware at boot time. What code to execute when certain events happen
-![[Pasted image 20240318150952.png|500]]
+![[trapTable.png|500]]
 
