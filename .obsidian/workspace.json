@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 5.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 2.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "2ff22c035c1307f0",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 5.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 5.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 5.md"
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md"
               }
             }
           },
@@ -161,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 5.md"
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md"
               }
             }
           },
@@ -194,13 +195,15 @@
   },
   "active": "ee02ec12ad32e2a9",
   "lastOpenFiles": [
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 2.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Central Processing Unit (CPU).md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 5.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 4.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 6.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md",
-    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 5.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 3.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Central Processing Unit (CPU).md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/contextSwitchProcedure.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/vonNeumann.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources.zip",
@@ -215,8 +218,6 @@
     "Personal/Open-source.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Limited Direct Execution.md",
     "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 5.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 2.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Ressource sharing.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 1.pdf",
