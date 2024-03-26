@@ -4,8 +4,8 @@ Themes:
   - Recap
 aliases: 
 Lecture1: true
-Lecture2: false
-Exercises: false
+Lecture2: true
+Exercises: true
 ---
 
 # Notes

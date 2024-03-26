@@ -26,6 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Personal/Charlotte & Alessandra birthday.md",
                 "mode": "source",
                 "backlinks": true,
@@ -40,6 +41,9 @@
               "type": "markdown",
               "state": {
                 "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
+=======
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
+>>>>>>> 55e37a6 (1)
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +117,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Personal/Charlotte & Alessandra birthday.md",
+=======
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
+>>>>>>> 55e37a6 (1)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +138,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Personal/Charlotte & Alessandra birthday.md",
+=======
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
+>>>>>>> 55e37a6 (1)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Personal/Charlotte & Alessandra birthday.md"
+=======
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md"
+>>>>>>> 55e37a6 (1)
               }
             }
           },
@@ -175,7 +191,11 @@
             "state": {
               "type": "file-properties",
               "state": {
+<<<<<<< HEAD
                 "file": "Personal/Charlotte & Alessandra birthday.md"
+=======
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md"
+>>>>>>> 55e37a6 (1)
               }
             }
           },
@@ -207,11 +227,47 @@
   },
   "active": "d2876d957db381d7",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 2.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 3.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 4.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 5.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/The Process Abstraction.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Central Processing Unit (CPU).md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 5.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 4.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 6.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 3.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/contextSwitchProcedure.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/vonNeumann.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources.zip",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/trapTable.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/processStateTransition.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/processMemorySegments.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313094425.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313093028.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313082836.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240312211634.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240312210618.png",
+    "Personal/Open-source.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Limited Direct Execution.md",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 5.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Ressource sharing.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 1.pdf",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 2.pdf",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 3.pdf",
+>>>>>>> 55e37a6 (1)
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 4.pdf",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 3.pdf",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 2.pdf",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs/CS-202 Week 1.pdf",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/pdfs",
+<<<<<<< HEAD
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/vonNeumann.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/trapTable.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/contextSwitchProcedure.png",
@@ -221,6 +277,10 @@
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources.zip",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Operating System (OS).md",
     "Personal/Charlotte & Alessandra birthday.md",
+=======
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Memory Management Unit (MMU).md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/System calls.md",
+>>>>>>> 55e37a6 (1)
     "EPFL/Bachelor/BA6.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Limited Direct Execution.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions/Central Processing Unit (CPU).md",
@@ -238,6 +298,7 @@
     "Personal/Deep Learning.md",
     "Personal/Techniques/Deep Read.md",
     "Personal/Reading/Articles/Seba Technology Disruption Framework.md",
+<<<<<<< HEAD
     "Personal/Reading/Articles/RethinkX - Rethinking food and agriculture 2020-2030.md",
     "Personal/Reading/Articles/Precision Fermentation.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/processStateTransition.png",
@@ -248,6 +309,8 @@
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313094425.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313093028.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240313082836.png",
+=======
+>>>>>>> 55e37a6 (1)
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Notions",
     "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/21_Model/[15]_Srivastava,_Nitish,_et_al_Dropout__a_simple_way_to_prevent_neural_networks_from_overfitting_Journal_of_Machine_Learning_Research_151_(2014)__1929-1958_.pdf",
     "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/2_Deep_Learning_Method/21_Model/[14]_Hinton,_Geoffrey_E,_et_al_Improving_neural_networks_by_preventing_co-adaptation_of_feature_detectors_arXiv_preprint_arXiv_12070580_(2012)_.pdf",
