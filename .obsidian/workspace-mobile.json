@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+            "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
+            "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md"
+            "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md"
           }
         }
       },
@@ -164,6 +164,9 @@
   },
   "active": "7e2750bf6f3e0964",
   "lastOpenFiles": [
+    "README.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/CS-202 - Computer Systems.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240306094411.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240306083107.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240305134816.png",
@@ -177,7 +180,6 @@
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240226102153.png",
     "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
     "Pasted image 20240228115112.png",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240228083121.png",
     "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 1.md",
     "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/CS-232 - Introduction to Machine Learning.md",
     "EPFL/Bachelor/SC - BA4/SC - BA4.md",
@@ -208,7 +210,6 @@
     "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I.md",
     "Deep Learning.md",
-    "Getting back into it.md",
-    "Open-source.md"
+    "Getting back into it.md"
   ]
 }
