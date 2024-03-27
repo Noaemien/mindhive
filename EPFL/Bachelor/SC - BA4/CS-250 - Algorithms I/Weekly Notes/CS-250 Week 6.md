@@ -2,15 +2,14 @@
 Week: 6
 Themes: 
 aliases: 
-Lecture1: false
+Lecture1: true
 Lecture2: false
 Exercises: false
 Quiz:
 ---
 
-## Notes
 
-#### Lecture 1
+# Lecture 1
 
 #### Lecture 2
 
