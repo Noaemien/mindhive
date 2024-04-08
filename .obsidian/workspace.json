@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 4 - Séries de Laurent.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b7c2c49138cc3058",
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 4 - Séries de Laurent.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 4 - Séries de Laurent.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 4 - Séries de Laurent.md"
+                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md"
               }
             }
           }
@@ -223,16 +224,21 @@
   },
   "active": "83339f19e613d1de",
   "lastOpenFiles": [
+    "Pasted image 20240408104056.png",
+    "Pasted image 20240408094745.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 14.md",
+    "Personal/Todo 03-31_04-07.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 5.md",
+    "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 4 - Séries de Laurent.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 3 - Integration complexe.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 2 - Fonctions exponentielle et logarithme.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 1 - Fonctions Holomorphes.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 0 - rappels et notations.md",
-    "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 4 - Séries de Laurent.md",
-    "Personal/Todo 03-31_04-07.md",
     "Personal/Open-source.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/MATH-207 - Analyse IV.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
     "Personal/Charlotte & Alessandra birthday.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/CS-202 - Computer Systems.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240326132447.png",
