@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Dynamic Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "b7c2c49138cc3058",
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md"
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Dynamic Programming.md"
               }
             }
           }
@@ -224,12 +223,18 @@
   },
   "active": "83339f19e613d1de",
   "lastOpenFiles": [
+    "Pasted image 20240409150039.png",
+    "Pasted image 20240409145858.png",
+    "Pasted image 20240409144235.png",
+    "Pasted image 20240409142618.png",
+    "Pasted image 20240409141954.png",
+    "Pasted image 20240409135945.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
     "Pasted image 20240408104056.png",
     "Pasted image 20240408094745.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 14.md",
     "Personal/Todo 03-31_04-07.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 5.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 4 - Séries de Laurent.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 3 - Integration complexe.md",
@@ -244,12 +249,7 @@
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240326132447.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240326131052.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240327094339.png",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240327094706.png",
-    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240326132423.png",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240327103952.png",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240327103205.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Dynamic Programming.md",
-    "Pasted image 20240326132348.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 6.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions"
   ]
