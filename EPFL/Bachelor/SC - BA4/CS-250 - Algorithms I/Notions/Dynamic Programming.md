@@ -93,7 +93,7 @@ A BST can be build by first picking the root and then building optimal subtrees 
 
 ### Recursive formula
 $e[i,j] =$ expected search cost of optimal BST
-![[Pasted image 20240409145858.png]]
+![[Pasted image 20240409145858.png|500]]
 Can be top down or bottom up with memoisation.
 
 ### Pseudocode
