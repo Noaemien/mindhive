@@ -63,12 +63,9 @@
             "id": "83339f19e613d1de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Graphs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409135945.png"
               }
             }
           }
@@ -123,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "b7c2c49138cc3058",
@@ -148,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Graphs.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409135945.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Graphs.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409135945.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Graphs.md"
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409135945.png"
               }
             }
           }
@@ -223,25 +219,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83339f19e613d1de",
+  "active": "68281357da8ebc21",
   "lastOpenFiles": [
-    "Pasted image 20240410121252.png",
-    "Pasted image 20240410114836.png",
-    "Pasted image 20240410114755.png",
-    "Pasted image 20240410113939.png",
-    "Pasted image 20240410113414.png",
-    "Pasted image 20240410113141.png",
-    "Pasted image 20240410112528.png",
-    "Pasted image 20240410112355.png",
-    "Pasted image 20240410111843.png",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240410121252.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240410114755.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240410113414.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240410112355.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409150039.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409142618.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409141954.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409135945.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240408104056.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240408094745.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Graphs.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240410114836.png",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/CS-202 - Computer Systems.md",
     "EPFL/Bachelor/SC - BA4/SHS - Design Industriel/Panier à champignons.md",
     "EPFL/Bachelor/SC - BA4/SC - BA4.md",
-    "Pasted image 20240408094745.png",
-    "Pasted image 20240409135945.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Dynamic Programming.md",
     "EPFL/Bachelor/SC - BA4/SHS - Design Industriel",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 14.md",
