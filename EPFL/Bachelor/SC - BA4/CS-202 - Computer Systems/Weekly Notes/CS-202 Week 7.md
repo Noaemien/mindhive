@@ -3,7 +3,7 @@ Week: 7
 Themes: 
 aliases: 
 Lecture1: true
-Lecture2: false
+Lecture2: true
 Exercises: false
 ---
 
@@ -37,3 +37,20 @@ For network interfaces: DNS names, IP addresses, MAC addresses
 For processes: network-interface name + port number
 ## Lecture 2
 
+### Basic network performance metrics
+- Packet loss
+	- the fraction of packets that are lost on the way from src to dest
+- Packet delay
+	- the time it takes for a packet to get from src dst
+	- Many components: transmission, propagation, queuing, processing
+	- Depends on network topology, link properties, switch operation, queue capacity, other traffic
+- Average throughput
+	- the average rate at which dst recieves data
+	- in bits per second (bps)
+
+> Packet delay matters for small messages but average throughput matters for bulk transfers
+
+...
+
+
+### Switch contents
