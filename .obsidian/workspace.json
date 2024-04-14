@@ -63,9 +63,12 @@
             "id": "83339f19e613d1de",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409135945.png"
+                "file": "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 3 - Integration complexe.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -120,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "b7c2c49138cc3058",
@@ -144,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
+                "file": "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 3 - Integration complexe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
+                "file": "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 3 - Integration complexe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md"
+                "file": "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 3 - Integration complexe.md"
               }
             }
           }
@@ -219,8 +223,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68281357da8ebc21",
+  "active": "83339f19e613d1de",
   "lastOpenFiles": [
+    "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/MATH-207 - Analyse IV.md",
+    "Personal/Todo 03-31_04-07.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240410121252.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240410114755.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240410113414.png",
@@ -232,8 +239,6 @@
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240408104056.png",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Ressources/Pasted image 20240408094745.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Graphs.md",
-    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240410114836.png",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 6.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/CS-202 - Computer Systems.md",
     "EPFL/Bachelor/SC - BA4/SHS - Design Industriel/Panier à champignons.md",
@@ -241,7 +246,6 @@
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Dynamic Programming.md",
     "EPFL/Bachelor/SC - BA4/SHS - Design Industriel",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 14.md",
-    "Personal/Todo 03-31_04-07.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 5.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 4 - Séries de Laurent.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 3 - Integration complexe.md",
@@ -249,7 +253,6 @@
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 1 - Fonctions Holomorphes.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 0 - rappels et notations.md",
     "Personal/Open-source.md",
-    "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/MATH-207 - Analyse IV.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres",
     "Personal/Charlotte & Alessandra birthday.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 6.md",
