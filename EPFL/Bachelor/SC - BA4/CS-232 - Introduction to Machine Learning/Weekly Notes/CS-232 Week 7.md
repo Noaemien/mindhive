@@ -2,7 +2,7 @@
 Week: 7
 Themes: 
 aliases: 
-Lecture1: false
+Lecture1: true
 pExercises: false
 Exercises: false
 ---
