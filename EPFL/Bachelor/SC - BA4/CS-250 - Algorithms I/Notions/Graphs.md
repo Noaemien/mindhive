@@ -90,3 +90,62 @@ Example:
 ![[Pasted image 20240410121252.png|500]]
 No (real) need to sort as we can just output vertices as they finish and take reverse of list. Or put them in front of linked list when they finish, when done the list is in topologically sorted order.
 Time $\Theta(V + E)$ (Like DFS)
+
+# Strongly Connected Components (A magic algorithm)
+
+
+## Definition
+A strongly connected component (SCC) of a directed graph $G = (V, E)$ is a *maximal* set of vertices $C \subseteq V$ such that $\forall u,v \in C$ both $u \leadsto v$ and $v \leadsto u$ ($\leadsto$ means "leads to").
+![[Pasted image 20240417151409.png|500]]
+
+## Component Graph
+For a digraph $G = (V, E)$, its compenent graph $G^{SCC}=(V^{SCC}, E^{SCC})$ is defined by:
+- $V^{SCC}$ has a vertex for each SCC in G;
+- $E^{SCC}$ has an edge if there's an edge between the corresponding SCC's in $G$.
+![[Pasted image 20240417152300.png|500]]
+## Magic Algorithm
+
+$SCC(G)$: $\Theta(V + E)$ 
+1. Call $DFS(G)$ to compute finishing times u.f for all u
+2. Compute $G^{T}$
+3. Call $DFS(G^{T})$ but in the main loop, consider vertices in order of decreasing u.f (as computed in first $DFS$) 
+4. Output the vertices in each tree of the depth-first forest formed in second DFS as a separate SCC
+
+>[!INFO] Graph Transpositions
+> $G^{T}$ is the traspose of $G$:
+> - $G^{T} = (V, E)$, $E^{T}= \set{(u,v): (v,u) \in E}$ 
+> - $G^{T}$ is $G$ with all edges reversed
+>Graph transposition take $\Theta(V+E)$ time 
+>$G$ and $G^{T}$ have the same SCCs
+
+
+# Flow Networks
+![[Pasted image 20240417153746.png|500]]
+**Idea:** 
+- Graph to model flow through edges (pipes).
+- Each edge has a capacity: an upper bound on the flow rate.
+
+**Objective:** Want to maximize rate of flow from source to sink.
+
+**Applications:**
+- Fire escape plans
+- Roads
+- Trains
+- ...
+# Definition
+Directed graph $G = (V, E)$ where each edge $(u, v)$ has capacity $c(u, v) \geq 0$ ($c(u,v) = 0 \text{ if } (u,v) \notin E$) 
+Source $s$ and sink $t$ (Flow goes from $s$ to $t$)
+No anti-parallel edges (assumed without loss of generality for simplicity)
+
+## Flow
+### Definition
+A flow is a function $f : V \times V \mapsto \mathbb{R}$ satisfying:
+- Capacity constraint: $\forall u,v \in V : 0 \leq f(u,v) \leq c(u,v)$
+- Flow conservation: $\forall u \in V \setminus \set{s,t}$, $\sum_{v \in V}f(v, u) = \sum_{v \in V}f(u,v)$
+### Value
+The value of a flow $f = |f| = \sum_{v \in V} f(s,v) - \sum_{v \in V}f(v, s) =$ flow out of source - flow into source 
+
+
+
+
+

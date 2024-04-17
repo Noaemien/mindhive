@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 8.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Graphs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 8.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 8.md",
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 8.md"
+                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Graphs.md"
               }
             }
           }
@@ -225,6 +225,15 @@
   },
   "active": "83339f19e613d1de",
   "lastOpenFiles": [
+    "Pasted image 20240417153746.png",
+    "Pasted image 20240417152300.png",
+    "Pasted image 20240417151409.png",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 6.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 7.md",
+    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 8.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
+    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 8.md",
+    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 8.md",
     "Pasted image 20240416094606.png",
     "Pasted image 20240416094426.png",
     "Pasted image 20240416093219.png",
@@ -233,7 +242,6 @@
     "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 4.md",
     "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 6.md",
     "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 7.md",
-    "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes/CS-232 Week 8.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 3 - Integration complexe.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/MATH-207 - Analyse IV.md",
     "Personal/Todo 03-31_04-07.md",
@@ -243,11 +251,7 @@
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240410113414.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240410112355.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409150039.png",
-    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409142618.png",
-    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409141954.png",
-    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Ressources/Pasted image 20240409135945.png",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions/Graphs.md",
-    "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 7.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/CS-202 - Computer Systems.md",
     "EPFL/Bachelor/SC - BA4/SHS - Design Industriel/Panier à champignons.md",
     "EPFL/Bachelor/SC - BA4/SC - BA4.md",
@@ -258,11 +262,7 @@
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 4 - Séries de Laurent.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 2 - Fonctions exponentielle et logarithme.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 1 - Fonctions Holomorphes.md",
-    "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres/Chapitre 0 - rappels et notations.md",
-    "Personal/Open-source.md",
     "EPFL/Bachelor/SC - BA4/MATH-207 - Analyse IV/Chapitres",
-    "Personal/Charlotte & Alessandra birthday.md",
-    "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Weekly Notes/CS-250 Week 6.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/Notions"
   ]
 }
