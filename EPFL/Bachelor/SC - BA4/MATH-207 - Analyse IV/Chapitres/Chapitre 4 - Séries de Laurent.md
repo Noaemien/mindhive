@@ -1,6 +1,5 @@
 ## Fonction analytique
 Une fonction définie sur $I$ est analytique si pour tout point de $I$ il existe un sous interval centré sur ce point ou la fonction est égale à sa propre série de Taylor.
-
 ## Taylor en $\mathbf{x_{0}}$ 
 $$T_{x_{0}}(x) = \sum\limits^{\infty}_{n=0}\frac{f^{(n)}(x_{0})}{n!}(x-x_{0})^{n}$$
 ## Théorème

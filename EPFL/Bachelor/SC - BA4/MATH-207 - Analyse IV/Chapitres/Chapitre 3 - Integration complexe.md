@@ -10,7 +10,6 @@ Cette paramétrisation doit suivre les propriétés suivantes:
 1. $\Gamma = \{\gamma(t)|t \in [a,b]\}$ 
 2. $\gamma \in C^{1}(]a,b[, \mathbb{C})$ 
 3. $\gamma'(t) = \alpha'(t) + i\beta'(t) \ne 0$ pour tout $t \in ]a,b[$ 
-
 ### Courbe régulière simple
 Une courbe régulière $\Gamma$ de paramétrisation $\gamma \colon [a,b] \longmapsto \Gamma$ est *simple* si $\gamma$ est injective sur $]a,b[$ 
 
