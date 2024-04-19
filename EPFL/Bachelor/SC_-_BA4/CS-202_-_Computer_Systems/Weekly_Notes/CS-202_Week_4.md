@@ -67,7 +67,7 @@ Value of PTBR is saved and restored in process control block upon context switch
 	- Dirty bit: Whether a page has been modified
 	- Access/Reference bit
 
-![[Pasted image 20240311095620.png|500]]
+![[Pasted_image_20240311095620.png|500]]
 
 ## Organising PTE
 
@@ -92,7 +92,7 @@ Locality of reference helps to have a high hit rate
 TLB entries may become invalid on context switch and change of page tables
 **TLB is NOT is memory, but rather a special circuit**
 
-![[Pasted image 20240311103509.png|500]]
+![[Pasted_image_20240311103509.png|500]]
 
 When assigning PTBR, TLB is wiped.
 
@@ -122,7 +122,7 @@ File system implementation
 ### General IO Abstraction stack
 IO systems are accessed through a series of layered abstractions
 
-![[Pasted image 20240313082836.png|300]]
+![[Pasted_image_20240313082836.png|300]]
 ### The system call interface
 Standardized, OS-independent, library
 - more user friendly than system call
@@ -197,7 +197,7 @@ The combination of file name and inode/device IDs are sufficient to implement pe
 - Use **linear numbers** (fd 0, 1, 2 ...), reuse when freed
 
 0-2 are mapped to STDIN, STDOUT and STDERR
-![[Pasted image 20240313093028.png|400]]
+![[Pasted_image_20240313093028.png|400]]
 
 **File system API**
 - Create a file: `int fd open(path, flags, permissions)`
@@ -231,7 +231,7 @@ File system is stored on disk
 
 
 
-![[Pasted image 20240313094425.png]]
+![[Pasted_image_20240313094425.png]]
 ### File allocation
 Various ways to allocate data to files:
 - **Contiguous allocation:** All bytes together, in order

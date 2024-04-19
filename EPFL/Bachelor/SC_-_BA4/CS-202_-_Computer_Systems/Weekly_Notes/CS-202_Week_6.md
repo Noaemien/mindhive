@@ -31,7 +31,7 @@ A mount point is an abstraction
 ### I/O
 
 #### General I/O Abstraction Stack
-![[Pasted image 20240327094339.png|300]]
+![[Pasted_image_20240327094339.png|300]]
 
 #### OS basics: IO
 Common services in form of IO:
@@ -40,7 +40,7 @@ Common services in form of IO:
 - Read / write packets from network
 - Read data from input devices
 
-![[Pasted image 20240327094706.png|500]]
+![[Pasted_image_20240327094706.png|500]]
 
 #### Simplified hardware with storage devices
 - IO controller supports IO devices and is responsible for handling their requests
@@ -115,7 +115,7 @@ Requirement: well-designed interface/API
 
 #### OS device structure
 
-![[Pasted image 20240327103205.png|500]]
+![[Pasted_image_20240327103205.png|500]]
 
 #### Device driver structure
 ##### Top half
@@ -145,7 +145,7 @@ Interactions between top and bottom halves are very tricky
 	- Good performance otherwise
 
 #### How Magnetic disks work
-![[Pasted image 20240327103952.png]]
+![[Pasted_image_20240327103952.png]]
 
 
 #### Disk overhead

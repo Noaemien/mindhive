@@ -2,7 +2,7 @@
 # What is an OS
 An OS is a **layer of software** that **interfaces** between hardware ressources and one or multiple applications running on the machine. It is a special program that should **never stop** and **never fail**. It is fully **trusted** by hardware and applications.
 
- ![[Pasted image 20240312210618.png|150]]
+ ![[Pasted_image_20240312210618.png|150]]
 
 ## The OS Provides
 ### **Protection**, **isolation** and sharing of resources
@@ -33,7 +33,7 @@ The OS provides process abstraction to every program, enabling each process to e
 [[The Process Abstraction|Processes]] have a nicer interface than raw hardware: Threads, Address space, Files and Sockets
 The OS translates from hardware interface to application interface.
 It provides each running program with its own process.
-![[Pasted image 20240312211634.png|]]
+![[Pasted_image_20240312211634.png]]
 
 ### A set of **common services**
 
@@ -53,7 +53,7 @@ The OS keeps a tree of all processes
 - Every process has a parent except "init" (pid 1 = init)
 - The OS Scheduler maintains the set of schedulable processes
 ## Running a process
-![[Pasted image 20240318141157.png|500]]
+![[Pasted_image_20240318141157.png|500]]
 
 
 ## Keeping Control: Interrupts

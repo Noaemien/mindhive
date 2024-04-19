@@ -13,7 +13,7 @@ Exercises: false
 ## What's on an Internet path ?
 Internet path is owned and managed by **Internet Service Providers** (ISPs)
 
-![[Pasted image 20240408094745.png|500]]
+![[Pasted_image_20240408094745.png|500]]
 
 Regional ISP's can have a peering relationship to bypass tier-1 ISP fees.
 ISP's don't have to have direct physical connection between each other. Can be connected using IXP (Internet Exchange Provider). 
@@ -28,7 +28,7 @@ Lower tier ISP's used caches to minimise requests to higher tier ISP's.
 - accept
 The *Application Programming Interface* (API) exposed to processes for Internet communication
 
-![[Pasted image 20240408104056.png|500]]
+![[Pasted_image_20240408104056.png|500]]
 ### Layers
 Provides an abstraction of what lies below to layer above
 

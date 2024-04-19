@@ -28,4 +28,4 @@ SORT week asc
 
 
 #### Links (ignore)
-[[CS-202 Week 1]] [[CS-202 Week 2]] [[CS-202 Week 3]] [[CS-202 Week 4]] [[CS-202 Week 5]] [[CS-202 Week 6]] [[CS-202 Week 7]] [[CS-202 Week 8]] [[CS-202 Week 9]] [[CS-202 Week 10]] [[CS-202 Week 11]] [[CS-202 Week 12]] [[CS-202 Week 13]] [[CS-202 Week 14]]
+[[CS-202_Week_1]] [[CS-202_Week_2]] [[CS-202_Week_3]] [[CS-202_Week_4]] [[CS-202_Week_5]] [[CS-202_Week_6]] [[CS-202_Week_7]] [[CS-202_Week_8]] [[CS-202_Week_9]] [[CS-202_Week_10]] [[CS-202_Week_11]] [[CS-202_Week_12]] [[CS-202_Week_13]] [[CS-202_Week_14]]

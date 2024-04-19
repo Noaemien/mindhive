@@ -11,7 +11,7 @@ Lecture1: true
 Lecture2: true
 Exercises: true
 ---
-test
+
 # Notes
 
 ## Lecture 1: 
@@ -68,7 +68,7 @@ Processes execute special **trap instructions** to execute system calls (slide 2
 **Trap** is a signal that instructs OS to perform some functionality immediately
 
 Slide 32 (important)
-![[Pasted image 20240226102153.png|300]]
+![[Pasted_image_20240226102153.png|300]]
 #### Traps
 
 Traps also referred to as exceptions.
@@ -199,7 +199,7 @@ Rule 5: Periodically moves all jobs to topmost queue (**priority boosting**)
 
 Boosting avoids starvation on long running jobs
 
-![[Pasted image 20240228094929.png|400]]
+![[Pasted_image_20240228094929.png|400]]
 
 
 

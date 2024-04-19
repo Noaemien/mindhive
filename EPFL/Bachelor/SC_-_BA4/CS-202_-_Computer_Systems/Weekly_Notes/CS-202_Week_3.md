@@ -9,7 +9,7 @@ Lecture1: true
 Lecture2: true
 Exercises: true
 ---
-
+test21
 # Notes
 
 ## Lecture 1
@@ -46,7 +46,7 @@ Text and data are static
 #### Memory management unit (MMU)
 Manages the mapping from virtual memory to physical memory address
 
-![[Pasted image 20240306083107.png|400]]
+![[Pasted_image_20240306083107.png|400]]
 
 #### The principle of indirection
 *We can solve and problem by introducing an extra level of indirection*
@@ -143,7 +143,7 @@ Keep two values (in registers) for every process: **base** and **bounds**
 - Bounds registers sets (virtual) limit of the address space, highest physical address that is accessible becomes base + bound
 
 Code:
-![[Pasted image 20240306094411.png|300]]
+![[Pasted_image_20240306094411.png|300]]
 
 Pros:
 - Achieves security & performance (isolated processes, addition and check are cheap)
@@ -164,10 +164,10 @@ Fragmentation is the problem, Segmentation is the Solution
 
 External fragmentation:
 
-![[Pasted image 20240306094837.png|500]]
+![[Pasted_image_20240306094837.png|500]]
 ##### A MMU: segmentation
 
-![[Pasted image 20240306095042.png|500]]
+![[Pasted_image_20240306095042.png|500]]
 One base and bound register per memory area
 - Code segment: CS register
 - Data segment: DS register
