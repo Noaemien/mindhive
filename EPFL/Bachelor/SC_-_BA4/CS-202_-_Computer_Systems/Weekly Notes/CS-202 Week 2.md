@@ -11,7 +11,7 @@ Lecture1: true
 Lecture2: true
 Exercises: true
 ---
-
+test
 # Notes
 
 ## Lecture 1: 
