@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_1.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre_4_-_Séries_de_Laurent.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "b7c2c49138cc3058",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_1.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre_4_-_Séries_de_Laurent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_1.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre_4_-_Séries_de_Laurent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_1.md"
+                "file": "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre_4_-_Séries_de_Laurent.md"
               }
             }
           }
@@ -169,11 +170,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68281357da8ebc21",
+  "active": "83339f19e613d1de",
   "lastOpenFiles": [
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_3.pdf",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_1.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/CS-202_-_Computer_Systems.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_3.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_4.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_5.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_2.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/The_Process_Abstraction.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Ressource_sharing.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).pdf",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Memory_Management_Unit_(MMU).md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Limited_Direct_Execution.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Central_Processing_Unit_(CPU).md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240408104056.png",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240408094745.png",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240327103952.png",
@@ -184,9 +196,6 @@
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240313094425.png",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240313093028.png",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240313082836.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Ressource_sharing.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Memory_Management_Unit_(MMU).md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Limited_Direct_Execution.md",
     "EPFL/Bachelor/SC_-_BA4/SHS_-_Design_Industriel/Panier_à_champignons.md",
     "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre_4_-_Séries_de_Laurent.md",
     "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre_3_-_Integration_complexe.md",
@@ -198,24 +207,15 @@
     "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/CS-250_-_Algorithms_I.md",
     "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Get_Prepped_for_Tech_PPT_Deck_9-29-22_withTechExample.pdf",
     "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/CS-232_-_Introduction_to_Machine_Learning.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/The_Process_Abstraction.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Central_Processing_Unit_(CPU).md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/CS-202_-_Computer_Systems.md",
     "EPFL/Bachelor/SC_-_BA4/SHS_-_Design_Industriel/Panier à champignons.md",
     "EPFL/Bachelor/SC_-_BA4/SHS_-_Design_Industriel",
     "EPFL/Bachelor/SC_-_BA4/SC_-_BA4.md",
     "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre 4 - Séries de Laurent.md",
-    "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre 3 - Integration complexe.md",
-    "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre 2 - Fonctions exponentielle et logarithme.md",
-    "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre 1 - Fonctions Holomorphes.md",
-    "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre 0 - rappels et notations.md",
     "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres",
     "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV",
     "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Weekly_Notes",
     "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Ressources",
     "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions",
-    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I",
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Get Prepped for Tech PPT Deck 9-29-22_withTechExample.pdf",
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes"
+    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I"
   ]
 }

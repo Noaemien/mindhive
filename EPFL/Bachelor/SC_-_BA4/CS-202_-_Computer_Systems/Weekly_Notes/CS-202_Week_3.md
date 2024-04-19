@@ -9,7 +9,7 @@ Lecture1: true
 Lecture2: true
 Exercises: true
 ---
-test21
+
 # Notes
 
 ## Lecture 1
