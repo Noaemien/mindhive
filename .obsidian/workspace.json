@@ -11,9 +11,12 @@
             "id": "83339f19e613d1de",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Pasted image 20240416094606.png"
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_9.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "b7c2c49138cc3058",
@@ -91,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Pasted image 20240416094606.png",
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Pasted image 20240416094606.png",
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Pasted image 20240416094606.png"
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_9.md"
               }
             }
           }
@@ -166,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68281357da8ebc21",
+  "active": "83339f19e613d1de",
   "lastOpenFiles": [
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Pasted image 20240416094426.png",
+    "Pasted image 20240422094825.png",
     "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Pasted image 20240416094606.png",
+    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Pasted image 20240416094426.png",
     "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Ressources/Pasted image 20240417153746.png",
     "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Ressources/Pasted image 20240417152300.png",
     "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Ressources/Pasted image 20240417151409.png",
@@ -199,7 +204,6 @@
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240408094745.png",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240327103952.png",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240327103205.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240327094706.png",
     "EPFL/Bachelor/SC_-_BA4/SHS_-_Design_Industriel/Panier_à_champignons.md",
     "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre_3_-_Integration_complexe.md",
     "EPFL/Bachelor/SC_-_BA4/MATH-207_-_Analyse_IV/Chapitres/Chapitre_2_-_Fonctions_exponentielle_et_logarithme.md",
