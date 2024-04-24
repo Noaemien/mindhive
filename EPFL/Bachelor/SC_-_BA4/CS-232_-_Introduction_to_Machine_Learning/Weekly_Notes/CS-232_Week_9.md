@@ -1,15 +1,12 @@
 ---
 Week: 9
-Themes: 
+Themes:
+  - Deep Learning
+  - ANN
 aliases: 
-Lecture1: false
+Lecture1: true
 pExercises: false
 Exercises: false
 ---
 
-## Notes
-
-#### Lecture 1
-
-#### Lecture 2
-
+# Deep Learning

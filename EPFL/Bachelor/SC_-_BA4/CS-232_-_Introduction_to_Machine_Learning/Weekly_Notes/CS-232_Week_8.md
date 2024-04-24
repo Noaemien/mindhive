@@ -8,8 +8,6 @@ Exercises: false
 ---
 
 
-# Lecture 1
-
 - Advantages of Kernel Methods
 	- Can effectively handle non-linearly-separable data
 	- Often have nice solutions (e.g. closed-form, convex)
@@ -74,5 +72,4 @@ Imbalanced data can give the illusion of good accuracy when classifying due to d
 ##### Cost-Sensitive Solution
 Re-weighting samples to put more emphasis on rare cases.
 Scale by $\beta =$ 1 - class frequency.
-# Lecture 2
 
