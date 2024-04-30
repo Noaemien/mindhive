@@ -4,7 +4,7 @@ A graph $G = (V, E)$ consists of
 - an edge set E that contain (ordered pairs of vertices)
 A graph can be un-directed, directed, vertex-weighted, edge-weighted, etc...
 
-![[Pasted image 20240410111843.png|500]]
+![[Pasted_image_20240410112355.png]]
 
 # Storing a graph
 ## Adjacency list
@@ -12,8 +12,8 @@ A graph can be un-directed, directed, vertex-weighted, edge-weighted, etc...
 - Size $|V|$, one list per vertex
 - Vertex u's list has all vertices v such that $(u,v) \in E$ 
 - In pseudo-code it is noted *G.Adj*
-	- For an un-directed graph, if $b$ is in the list of $a$ then $a$ is in the list of $b$ ![[Pasted image 20240410112355.png|500]]
-	- For a directed graph ![[Pasted image 20240410112528.png|500]]
+	- For an un-directed graph, if $b$ is in the list of $a$ then $a$ is in the list of $b$ ![[Pasted_image_20240410112355.png|500]]
+	- For a directed graph ![[Pasted_image_20240410112528.png|500]]
 ## Adjacency matrix
 - $|V| \times |V|$ matrix $A = (a_{ij})$ where $$a_{ij} = \begin{cases}
 1 & \text{if }(i,j) \in E \\
@@ -145,6 +145,28 @@ A flow is a function $f : V \times V \mapsto \mathbb{R}$ satisfying:
 ### Value
 The value of a flow $f = |f| = \sum_{v \in V} f(s,v) - \sum_{v \in V}f(v, s) =$ flow out of source - flow into source 
 
+### Residual capacity
+Given a flow network $G$ and a flow $f$, the residual capacity is defined as:
+$$c_{f}(u, v) = \begin{cases} 
+c(u,v) - f(u, v), & \text{if } (u, v) \in E \\
+f(v,u), & \text{if } (v,u) \in E \\
+0, & \text{otherwise}
+\end{cases}$$
+
+The main idea of this function is its second part: the first part is just the capacity left in the pipe, but the second part is a new, reversed, edge we add. This new edge holds a capacity representing the amount of flow that can be reversed.
+
+### Residual network
+Given a flow network $G$ and flow $f$, the **residual network** $G_{f}$ is defined as:
+$$G_{f} = (V, E_{f}), \, \text{ where } E_{f} = \{(u,v) \in V x V : c_{f}(u,v) > 0 \}$$
+We basically use our residual capacity function, removing edges with 0 capacity left.
+
+### Augmenting path
+
+Given a flow network $G$ and flow $f$, an augmenting path is a simple path (never going twice on the same vertex) from $s$ to $t$ in the residual network $G_{f}$. **Augmenting the flow** $f$ by this path means applying the minimum capacity over the path: add it to edges which were here at the start, and remove it to edges we added after through the residual capacity. This can easily be seen by looking at the definition of residual capacity (if $(u,v) \in E$, then we use the opposite of the flow, if $(v, u) \in E$, then we use the positive version of the flow).
+
+
+### Ford-Fulkerson algorithm
+Greedy algorithm for finding the maximum flow in a network using residual networks to cancel wrong choices of paths.
 
 
 

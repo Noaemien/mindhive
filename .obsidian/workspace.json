@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Graphs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md"
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Graphs.md"
               }
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "83339f19e613d1de",
   "lastOpenFiles": [
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_9.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_9.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_8.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_7.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_5.md",
