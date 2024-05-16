@@ -7,38 +7,42 @@ Lecture2: false
 Exercises: false
 ---
 
-# Notes
-
-## Lecture 1 - DNS & Security
-### Application Programming Interface
+# Lecture 1 - DNS & Security
+## Application Programming Interface
 - Syscall API: Interface between application programmer and OS for doing privileged stuff
 - Accessing peripheral devices
 - Communicating over the internet
 
-### Network interface
+## Network interface
 - Interface between an **end-system** and the **network**
 - A piece of hardware or software that **sends and recieves packets**
 - E.g. the network card of your laptop is a hardware network interface
 
-### DNS Name
+## DNS Name
 - Identifies a **network interface** = identifies an end-system
 - Also called a **hostname**
 	- an end-system is also called a host
 
-### URL
+## URL
 - Identifies a **web resource/object**
 	- e.g epfl.ch/labs/nal/publications
 - Format: DNS name + file name
 	- epfl.ch identifies a network interface
 	- /labs/nal/publications identifies a file
 
-### Process name / address
+## Process name / address
 - Identifies a process
 	- e.g epfl.ch:443
 	- e.g 128.178.222.83:80
 - Format: **DNS name or IP address + port number**
 	- epfl.ch and 128.178.222.83 identify network interfaces
 	- 443 and 80 identify web-server processes running behind the corresponding network interfaces
+
+## Web request revisited
+- You enter URL into web client
+- Web client extracts DNS name
+- Translates DNS name to IP address
+- Forms web-server process name
 
 ### HTTP Get
 
@@ -95,13 +99,28 @@ Hierarchy of DNS servers help local DNS servers generate DNS responses
 - TCP for longer exchanges
 	- between DNS servers
 
-(See slides 30)
+### DNS attack vectors
+#### Impersonation
+- If Persa responds faster than the DNS server with her own IP address, the DNS Client will send information to the wrong DNS server
+#### Denial of server
+- If denis sends loads of requests to root DNS server or TLD server, it can deny service to other dns clients or increase response time.
+
+#### Trashing the cache
+- Slows down DNS server response
+
 
 ### Security
 #### Confidentiality
 - When Alice sends a message to Bob, only Alice and Bob can see the contents of the message
 - An eavesdropper Eve, sitting on the communication channel, cannot see the content
 
+#### Authenticity
+- Avoid Persa (Impersonation) who can send an arbitrary message using Alice's IP address
+- A key is sent with the address encrypted using secret key to verify authenticity
+- To avoid sending twice the amount of content we send a MAC (Message Authentication Code), which is a hash of the key and the message, instead of the key
+- Use of nonce to prevent replay attacks
+	- Alice appends MAC or digital signature of nonce + message
+	- Bob verifies it is correct
 
 ## Lecture 2
 

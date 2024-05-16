@@ -2,21 +2,60 @@
 Week: 8
 Themes: 
 aliases: 
-Lecture1: false
+Lecture1: true
 Lecture2: false
 Exercises: false
 ---
 
-## Notes
+# Application Layer
+## Process
+Piece of code running on a end-system, belongs to application layer
+Has a process name: ex 128.156.17.23 and a port number: ex 80
 
-## Internet transport layer protocols
+## Interface
+Point where two systems, subjects, orgs, etc.. meet and interact
+## Designing an application
 
-### Transmission Control Protocol (TCP)
+### Design the architecture
+- Client server architecture
+	- Client generates service requests
+	- Server: process that is always running, reachable at a fixed, known process name, answers service requests
+- Peer-to-peer architecture
+	- A peer may act as both server and client
+		- generates service requests
+		- answer (or deny) requests
+	- Runs on personally owned end systems
+### Design the communication protocol
+
+### Choose the transport-layer technology
+#### Reliable data delivery
+- Deliver message to destination process or signal failure
+	- detect and recover from packet loss or corruption
+#### Guaranteed Performance
+- Minimum throughput
+	- Throughput-sensitive applications
+	- e.g., video-conferencing
+- Maximum end-to-end packet delay
+	- delay-sensitive applications,
+	- e.g., emergency services, voice, gaming
+#### Guaranteed security
+- Confidentiality
+	- message is revealed only to the destination
+- Authenticity
+	- message indeed came from claimed source
+- Data integrity
+	- message is not changed along the way
+
+
+
+#### Internet transport layer protocols
+
+##### Transmission Control Protocol (TCP)
 - reliable, in-order data delivery, flow control, congestion control
 - Keeps re-transmitting packet until it reaches destination or signal to app it has failed
 	- TCP code at destination keeps state on source
 	- TCP code at source keeps state on the destination
-## User Datagram Protocol (UDP)
+##### User Data gram Protocol (UDP)
 - detection of packet corruption
 
 

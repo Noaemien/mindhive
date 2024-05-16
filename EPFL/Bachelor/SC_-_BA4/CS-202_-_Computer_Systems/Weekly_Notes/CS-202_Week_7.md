@@ -50,7 +50,38 @@ For processes: network-interface name + port number
 
 > Packet delay matters for small messages but average throughput matters for bulk transfers
 
-...
+Bottleneck link:
+- the link where traffic flows at the slowest rate.
+- Could be because of link's transmission rate or because of queuing delay
+
+### Queuing delay
+- Assuming infinites queue
+	- Approaches infinity, if arrival rate > departure rate
+	- depends on burst size otherwise
 
 
 ### Switch contents
+- Queue
+	- stores packets
+- Forwarding table
+	- store meta-data
+	- indicate where to send each packet
+
+### Resource management
+- Packet switching
+	- packets treated *on demand*
+	- admission control & forwarding decision: per packet
+	- Unpredictable performance
+	- Efficient use of ressources
+	- Can serve more users using statistical multiplexing (not all users share ressource at the same time but most users are not active all the time)
+- "Connection switching"
+	- resources *reserved* per active connection
+	- admission control & forwarding decision: per connection
+	- Predictable performance
+	- Inefficient use of ressources
+
+### Internet vulnerabilities
+- Eavesdropping (sniffing)
+- Impersonation (spoofing)
+- Denial of service (dos-ing)
+- Malware
