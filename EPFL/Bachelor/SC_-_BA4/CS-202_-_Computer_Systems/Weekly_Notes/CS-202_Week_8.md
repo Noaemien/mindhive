@@ -17,14 +17,38 @@ Point where two systems, subjects, orgs, etc.. meet and interact
 ## Designing an application
 
 ### Design the architecture
-- Client server architecture
-	- Client generates service requests
-	- Server: process that is always running, reachable at a fixed, known process name, answers service requests
-- Peer-to-peer architecture
-	- A peer may act as both server and client
-		- generates service requests
-		- answer (or deny) requests
-	- Runs on personally owned end systems
+#### Client server architecture
+- Client generates service requests
+-  Server: process that is always running, reachable at a fixed, known process name, answers service requests
+-  time increases linearly with number of clients
+#### Peer-to-peer architecture
+- A peer may act as both server and client
+	- generates service requests
+	- answer (or deny) requests
+- Runs on personally owned end systems
+- time increases sub-linearly with the number of clients
+##### How to retrieve content
+- Learn metadata file ID
+- Find metadata file location
+- Get metadata file (from web server or peer), read data file IDS
+- Find data file locations
+- Get data files (from peers)
+
+Metadata file can be stored on web server on by a peer. (ex bit-torrent metadata file is .torrent)
+
+**Finding file location**:
+- Tracker:
+	- An end-system that knows the locations of the files
+		- the IP addresses of the peers that store each file
+- Distributed Hash Table (DHT):
+	- A distributed system that know the location of the files
+		- the IP addresses of the peers that store each file
+- Tracker vs DHT
+	- Different implementation of same service
+		- input: file ID
+		- output: IP's of peers that have file
+		- Tracker is centralized, DHT is distributed
+		- 
 ### Design the communication protocol
 
 ### Choose the transport-layer technology

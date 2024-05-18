@@ -3,7 +3,7 @@ Week: 9
 Themes: 
 aliases: 
 Lecture1: true
-Lecture2: false
+Lecture2: true
 Exercises: false
 ---
 
@@ -122,5 +122,32 @@ Hierarchy of DNS servers help local DNS servers generate DNS responses
 	- Alice appends MAC or digital signature of nonce + message
 	- Bob verifies it is correct
 
-## Lecture 2
+# Lecture 2
 
+## The Transport Layer 
+
+### Packet structure
+![[Pasted image 20240518131013.png]]
+
+### Process-to-process communication
+
+#### Message transmission
+##### Multiplexing
+- Upon receiving a new message from a process, create new packets
+- identify the correct IP addresses and ports
+##### Demultiplexing
+- many processes running in app layer
+- upon receiving a new packet from the network, identify the correct destination process
+#### UDP
+
+Each UDP socket has a unique (IP address, port #) tuple
+A process may use the same UDP socket to communicate with many remote processes
+#### TCP
+
+Listening & connection sockets
+Each connection socket has a unique (local IP, local port, remote IP, remote port) tuple
+A process must use a different TCP connection socket per remote process
+
+
+
+### Reliable data delivery
