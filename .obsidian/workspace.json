@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "b7c2c49138cc3058",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md"
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_11.md"
               }
             }
           }
@@ -175,19 +174,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "d2a107c6c7d74624",
   "lastOpenFiles": [
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_9.md",
+    "Pasted image 20240520154434.png",
+    "Pasted image 20240520154235.png",
+    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/CS-232_-_Introduction_to_Machine_Learning.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_11.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_10.md",
+    "Pasted image 20240520133131.png",
+    "Pasted image 20240520130130.png",
+    "Pasted image 20240520125755.png",
+    "Pasted image 20240520125356.png",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_9.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_6.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_5.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_4.md",
@@ -221,16 +229,7 @@
     "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_8.md",
     "Pasted image 20240422094825.png",
     "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Pasted image 20240416094606.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Pasted image 20240416094426.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Ressources/Pasted image 20240417153746.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Ressources/Pasted image 20240417152300.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Ressources/Pasted image 20240417151409.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Ressources/Pasted image 20240416093219.png",
     "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Dynamic_Programming.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Weekly_Notes/CS-250_Week_5.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Weekly_Notes/CS-250_Week_3.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Weekly_Notes/CS-250_Week_2.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Weekly_Notes/CS-250_Week_4.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Weekly_Notes/CS-250_Week_1.md"
+    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Weekly_Notes/CS-250_Week_5.md"
   ]
 }

@@ -20,7 +20,7 @@ Prof: [Fua Pascal](https://people.epfl.ch/112366?lang=fr), [Salzmann Mathieu](ht
 
 ```dataview
 TABLE Week, Themes, aliases AS "Chapters", choice(Lecture1, "✅", "🚫") AS "Lecture 1", choice(pExercises, "✅", "🚫") AS "Python Exercises", choice(Exercises, "✅", "🚫") AS Exercises
-from "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning/Weekly Notes"
+from "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes"
 WHERE Week > 0
 SORT week asc
 ```
