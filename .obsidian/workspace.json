@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/BA6.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "b7c2c49138cc3058",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/BA6.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/BA6.md",
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/BA6.md"
+                "file": "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_13.md"
               }
             }
           }
@@ -185,10 +186,18 @@
   },
   "active": "d2a107c6c7d74624",
   "lastOpenFiles": [
+    "Pasted image 20240522092919.png",
+    "Pasted image 20240522092852.png",
+    "Pasted image 20240522084823.png",
+    "Pasted image 20240522084702.png",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_12.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_11.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_13.md",
+    "EPFL/Bachelor/BA6.md",
     "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_13.md",
     "Pasted image 20240521085546.png",
     "Pasted image 20240521083730.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_13.md",
     "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_11.md",
     "Pasted image 20240520154434.png",
     "Pasted image 20240520154235.png",
@@ -197,8 +206,6 @@
     "Pasted image 20240520133131.png",
     "Pasted image 20240520130130.png",
     "Pasted image 20240520125755.png",
-    "Pasted image 20240520125356.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_9.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_6.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_5.md",
@@ -215,10 +222,6 @@
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_8.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_7.md",
-    "Pasted image 20240518131013.png",
-    "Pasted image 20240518130920.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_12.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_11.md",
     "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Graphs.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).fdb_latexmk",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).aux",
@@ -228,8 +231,6 @@
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/pdflatex23446.fls",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/pdflatex23441.fls",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/pdflatex23116.fls",
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_9.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_8.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Dynamic_Programming.md"
+    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_9.md"
   ]
 }
