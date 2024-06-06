@@ -6,7 +6,6 @@ Lecture1: true
 Lecture2: true
 Exercises: false
 ---
-
 # Notes
 ## Lecture 1
 
