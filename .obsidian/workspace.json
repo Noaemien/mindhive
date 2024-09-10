@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Week_1.md",
+                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b387fdbb742c5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/COM-301_Computer_security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Week_1.md",
+                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Week_1.md",
+                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Week_1.md"
+                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md"
               }
             }
           }
@@ -172,12 +185,17 @@
   },
   "active": "0f0c10897f950ff4",
   "lastOpenFiles": [
-    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Modèles_sotchastiques.md",
+    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/COM-300_Modèles_stochastiques.md",
+    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/COM-301_Computer_security.md",
+    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md",
+    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/Weekly_Notes/COM-300_Week_1.md",
+    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/Weekly_Notes/COM-300_Week_1.md",
+    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes",
+    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security",
     "EPFL/Bachelor/BA6.md",
     "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Graphs.md",
-    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Week_1.md",
-    "EPFL/Bachelor/SC_BA5/Weekly_Notes",
-    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques",
+    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/Weekly_Notes",
+    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques",
     "EPFL/Bachelor/SC_BA5",
     "EPFL/Bachelor/SC_-_BA4/SC_-_BA4.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_7.md",
@@ -211,12 +229,7 @@
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Limited_Direct_Execution.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Memory_Management_Unit_(MMU).md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).pdf",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_8.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_12.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).fdb_latexmk",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).aux",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).synctex(busy)",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).log"
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).aux"
   ]
 }
