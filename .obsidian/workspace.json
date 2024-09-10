@@ -8,43 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83339f19e613d1de",
+            "id": "0f0c10897f950ff4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Graphs.md",
+                "file": "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Week_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d2a107c6c7d74624",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EPFL/Bachelor/BA6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22ce58cfcc7c65d8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "b7c2c49138cc3058",
@@ -118,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/BA6.md",
+                "file": "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Week_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/BA6.md",
+                "file": "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Week_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/BA6.md"
+                "file": "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Week_1.md"
               }
             }
           }
@@ -193,8 +170,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22ce58cfcc7c65d8",
+  "active": "0f0c10897f950ff4",
   "lastOpenFiles": [
+    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Modèles_sotchastiques.md",
+    "EPFL/Bachelor/BA6.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Graphs.md",
+    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques/COM-300_Week_1.md",
+    "EPFL/Bachelor/SC_BA5/Weekly_Notes",
+    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_sotchastiques",
+    "EPFL/Bachelor/SC_BA5",
     "EPFL/Bachelor/SC_-_BA4/SC_-_BA4.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_7.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240408094745.png",
@@ -230,16 +214,9 @@
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_8.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_12.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_11.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Graphs.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).fdb_latexmk",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).aux",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).synctex(busy)",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).log",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).fls",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/pdflatex23446.fls",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/pdflatex23441.fls",
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_9.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_8.md"
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).log"
   ]
 }
