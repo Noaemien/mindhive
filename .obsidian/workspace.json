@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "b315d542b76cea57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0b387fdbb742c5c4",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md",
+                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md",
+                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md"
+                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md"
               }
             }
           }
@@ -183,11 +197,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f0c10897f950ff4",
+  "active": "b315d542b76cea57",
   "lastOpenFiles": [
+    "Pasted image 20240917162239.png",
+    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md",
+    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md",
     "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/COM-300_Modèles_stochastiques.md",
     "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/COM-301_Computer_security.md",
-    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md",
     "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/Weekly_Notes/COM-300_Week_1.md",
     "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/Weekly_Notes/COM-300_Week_1.md",
     "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes",
@@ -226,8 +242,6 @@
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_1.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/The_Process_Abstraction.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Central_Processing_Unit_(CPU).md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Limited_Direct_Execution.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Memory_Management_Unit_(MMU).md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).pdf",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).fdb_latexmk",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).aux"
