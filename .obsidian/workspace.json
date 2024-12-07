@@ -4,50 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "dc0b45767af33d6a",
+        "id": "265578022e2f2837",
         "type": "tabs",
         "children": [
           {
-            "id": "0f0c10897f950ff4",
+            "id": "873a83f39b4a63c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md",
+                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b315d542b76cea57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b387fdbb742c5c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/COM-301_Computer_security.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Daily Paper - 2024 12 06"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -82,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -90,15 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "b7c2c49138cc3058",
@@ -113,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -122,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md",
+                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Daily Paper - 2024 12 06"
             }
           },
           {
@@ -139,10 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md",
+                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Daily Paper - 2024 12 06"
             }
           },
           {
@@ -153,7 +139,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -165,7 +153,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -174,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md"
-              }
+                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Daily Paper - 2024 12 06"
             }
           }
         ],
@@ -197,13 +189,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b315d542b76cea57",
+  "active": "873a83f39b4a63c1",
   "lastOpenFiles": [
+    "Personal/Reading/Daily Papers/Master Daily Papers Registory.md",
+    "Personal/Open-source.md",
+    "Personal/Getting back into it.md",
+    "Personal/Call with Corentin Dumery from CVLAB.md",
+    "Personal/Reading/Daily Papers/Notes/Untitled.canvas",
+    "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md",
+    "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 20.md",
+    "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/Deep Learning Papers Reading Roadmap.md",
+    "Personal/Articles/The demise of the oil industry.md",
+    "Pasted image 20240520125356.png",
+    "Pasted image 20240518130920.png",
+    "Pasted image 20240422094825.png",
+    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/COM-301_Computer_security.md",
+    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md",
     "Pasted image 20240917162239.png",
     "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md",
-    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md",
     "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/COM-300_Modèles_stochastiques.md",
-    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/COM-301_Computer_security.md",
     "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/Weekly_Notes/COM-300_Week_1.md",
     "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/Weekly_Notes/COM-300_Week_1.md",
     "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes",
@@ -219,29 +224,17 @@
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240408094745 1.png",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_6.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Networking/Network_Performance.md",
-    "Personal/Call with Corentin Dumery from CVLAB.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Networking",
     "Pasted image 20240520133131.png",
     "Pasted image 20240520130130.png",
     "Pasted image 20240520125755.png",
-    "Pasted image 20240520125356.png",
     "Pasted image 20240518131013.png",
-    "Pasted image 20240518130920.png",
-    "Pasted image 20240422094825.png",
     "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_11.md",
-    "Pasted image 20240522092919.png",
     "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/CS-232_-_Introduction_to_Machine_Learning.md",
     "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_10.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_9.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_5.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_4.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_3.md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_3.pdf",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_2.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_1.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/The_Process_Abstraction.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Central_Processing_Unit_(CPU).md",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).pdf",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).fdb_latexmk",
     "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).aux"
