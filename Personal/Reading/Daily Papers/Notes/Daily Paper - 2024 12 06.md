@@ -101,5 +101,42 @@ Needs to populate empty areas, regions with missing geometric features ("under-r
 Every 3000 iterations, set all Gaussians $\alpha \approx 0$. This allows optimisation to increase $\alpha$ for useful Gaussians and useless gaussians will be culled as $\alpha \lt \epsilon_{\alpha}$.
 Periodically remove gaussians that are too large in world space or view space.
 
+![[3dgs_optimizer.png|500]]
 
 ### Fast Differentiable Rasterizer for Gaussians
+
+![[3dgs_rasterizer.png|500]]
+
+
+# Article
+
+## 3D Gaussian Splatting for Real Time Radiance Field Rendering.  
+A deep-dive into the paper that revolutionized modern scene reconstruction techniques, yielding high-resolution results and real-time rendering with fast training times.  
+A Thread 🧵(1/?):
+
+(2/)
+3DGS offers 3 main improvements on previous methods:
+- Use of 3D Gaussians for scene representation.
+- Optimization of the 3D Gaussians properties such as: position, opacity, an-isotropic covariance and spherical harmonic coefficients.
+- Real-time scene rendering.
+
+(3/)
+In the spirit of Neural Radiance Fields (NeRFs), 3DGS steps away from traditional scene representation with meshes and points in favour of using a continuous and differentiable scene representation in the form of 3D Gaussians. This allows for the scene to be fitted through optimization steps yielding high resolution scenes and fast training times.
+
+{Video comparison of mesh vs 3dgs}
+
+What are 3D Gaussians ?
+3D gaussians are a probabilistic function defined by a 3D covariance matrix $\Upsigma$:
+$$G(x) = e^{\frac{-1}{2}(x)^{T}\Upsigma^{-1}(x)}$$
+Although they are hard to visualize, 3D gaussians can be imagined as an ellipsoid analogous to $\Sigma$.
+For this reason we can describe $\Sigma$ as:
+$$\Upsigma = RSS^{T}R^{T}$$
+$$\text{with } S = \begin{bmatrix}
+s_{x} & 0 & 0 \\ 0 & s_{y} & 0 \\ 0 & 0 & s_{z}
+\end{bmatrix}$$
+$$\text{and } R = \begin{bmatrix}
+1 - 2(q_{j}^{2} + q_{k}^{2}) & 2(q_{i}q_{j} - q_{k}q_{r}) & 2(q_{i}q_{k} + q_{j}q_{r}) \\ 2(q_{i}q_{j} + q_{k}q_{r})&  1 - 2(q_{i}^{2} + q_{k}^{2}) & 2(q_{j}q_{k} - q_{i}q_{r}) \\ 2(q_{i}q_{k} - q_{j}q_{r}) & 2(q_{j}q_{k} + q_{i}q_{r}) & 1 - 2(q_{i}^{2} + q_{j}^{2})
+\end{bmatrix}$$
+$\text{defined by quaternion } q=q_{r}+q_{i}i + q_{j}j + q_{k}k \text{ and vector } s = [s_{x}, s_{y}, s_{z}]$ 
+
+Being volumetric in nature, 3d gaussians are particularly useful as they can be easily projected to 2D image coordinates, which is used during the optimization process.
