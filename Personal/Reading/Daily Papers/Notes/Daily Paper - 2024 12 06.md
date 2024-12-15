@@ -8,7 +8,7 @@ Author:
   - Thomas Leimkühler
   - George Drettakis
 lecture-date: 2024-12-06
-rating: -1
+rating: 5
 Link: https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/
 ---
 # Summary:
@@ -84,6 +84,11 @@ $$J \approx \begin{bmatrix}
 ### Optimization with adaptive density control of 3D Gaussians
 #### Optimization
 
+Model is optimized through successive iterations of rasterizing scene from camera positions and comparing to ground truth images.
+
+Stochastic Gradient Descent is used to train the models parameters.
+The loss function is a combination of $\mathcal{L}_{1}$ and D-SSIM
+$$\mathcal{L} = (1-\lambda)\mathcal{L}_{1} + \lambda \mathcal{L}_\text{D-SSIM}$$ 
 
 #### Adaptive Control of Gaussians
 Densify every 100 iterations and remove any transparent Gaussians, where $\alpha < \epsilon_{\alpha}$.
@@ -103,10 +108,19 @@ Periodically remove gaussians that are too large in world space or view space.
 
 ![[3dgs_optimizer.png|500]]
 
+---
+
+
 ### Fast Differentiable Rasterizer for Gaussians
+
 
 ![[3dgs_rasterizer.png|500]]
 
+### Spherical Harmonics
+Functions defined on the surface of a sphere that describe its color dependant on viewing direction.
+Allows the model to represent view dependant effects such as specularity
+
+Store a vector of spherical harmonic coefficients for each color channel (RGB).
 
 # Article
 
@@ -117,7 +131,7 @@ A Thread 🧵(1/?):
 (2/)
 3DGS offers 3 main improvements on previous methods:
 - Use of 3D Gaussians for scene representation.
-- Optimization of the 3D Gaussians properties such as: position, opacity, an-isotropic covariance and spherical harmonic coefficients.
+- Optimization of the 3D Gaussians properties such as: position, opacity, covariance and spherical harmonic coefficients.
 - Real-time scene rendering.
 
 (3/)
@@ -126,9 +140,18 @@ In the spirit of Neural Radiance Fields (NeRFs), 3DGS steps away from traditiona
 {Video comparison of mesh vs 3dgs}
 
 What are 3D Gaussians ?
-3D gaussians are a probabilistic function defined by a 3D covariance matrix $\Upsigma$:
+
+3D gaussians defined by the following properties:
+- A mean $\mu = (x, y, z)$ or "position"
+- A covariance $\Sigma$
+- Opacity $\alpha$ 
+- Spherical Harmonics coefficients that represent r, g, b channels.
+
+{Video demonstrating 3D Gaussian properties}
+
+3D Gaussians are a probabilistic function defined by a 3D covariance matrix $\Upsigma$:
 $$G(x) = e^{\frac{-1}{2}(x)^{T}\Upsigma^{-1}(x)}$$
-Although they are hard to visualize, 3D gaussians can be imagined as an ellipsoid analogous to $\Sigma$.
+Although they can be hard to visualize, 3D gaussians can be imagined as an ellipsoid analogous to $\Sigma$.
 For this reason we can describe $\Sigma$ as:
 $$\Upsigma = RSS^{T}R^{T}$$
 $$\text{with } S = \begin{bmatrix}
@@ -140,3 +163,23 @@ $$\text{and } R = \begin{bmatrix}
 $\text{defined by quaternion } q=q_{r}+q_{i}i + q_{j}j + q_{k}k \text{ and vector } s = [s_{x}, s_{y}, s_{z}]$ 
 
 Being volumetric in nature, 3d gaussians are particularly useful as they can be easily projected to 2D image coordinates, which is used during the optimization process.
+
+> [! Reminder] Affine mappings of multi-variate gaussian random variables:  
+>Given $X \sim N(\bar{\mu}, \Sigma)$   
+>$$y = AX + B$$
+>$$cov(Y) = A \Sigma A^{T}$$
+>$$ \mu_{Y} = A \mu_{X} + b$$
+>If we want to apply a mapping $m$ which is not affine, we can use the affine approximation using the first two terms of the Taylor expansion of $m$ at point $x_{k}$: $$m_{x_{k}}(x) = m(x_{k}) + J_{x_{k}} (x-x_{k})$$ 
+ 
+
+The 2D Covariance Matrix is derived by applying two affine mappings.
+- The extrinsic camera matrix $W = [R | T]$ which maps the covariance matrix to 3D camera space
+- The affine approximation of the projective transformation from camera space to image space given by the intrinsic camera matrix $K = \frac{1}{z}\begin{bmatrix} f_{x} & s & c_{x} \\ 0 & f_{y} & c_{y} \\ 0 & 0 & 1\end{bmatrix}$
+$$\Sigma = JW\Sigma W^{T}J^{T} $$
+**The Optimization process:**
+
+The 3DGS algorithm is trained through multiple iterations of rasterizing the scene and comparing the output to the training images.
+
+Like in traditional Multi-Layer Perceptrons (MLP's), Stockastic Gradient Descent is used to optimize the model parameters.
+The loss 
+

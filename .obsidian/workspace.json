@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "265578022e2f2837",
+        "id": "b9c542f5edc0d96e",
         "type": "tabs",
         "children": [
           {
-            "id": "873a83f39b4a63c1",
+            "id": "c143535ec5ff3bdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,22 +89,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d1aaf762ab27549",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "74a5c55f35c71969",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md",
+                "file": "EPFL/Bachelor/BA6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily Paper - 2024 12 06"
+              "title": "Backlinks for BA6"
             }
           },
           {
@@ -123,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md",
+                "file": "EPFL/Bachelor/BA6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily Paper - 2024 12 06"
+              "title": "Outgoing links from BA6"
             }
           },
           {
@@ -164,14 +154,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md"
+                "file": "EPFL/Bachelor/BA6.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily Paper - 2024 12 06"
+              "title": "Outline of BA6"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,53 +179,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "873a83f39b4a63c1",
+  "active": "68281357da8ebc21",
   "lastOpenFiles": [
-    "Personal/Reading/Daily Papers/Notes/Ressources/3dgs_optimizer.png",
-    "Pasted image 20240422094825.png",
-    "Personal/Reading/Daily Papers/Notes/Ressources",
-    "Personal/Reading/Daily Papers/Notes/Ressources/3dgs_rasterizer.png",
+    "Personal/Reading/Daily Papers/Notes/Untitled.md",
     "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md",
-    "Personal/Reading/Daily Papers/Master Daily Papers Registory.md",
-    "Personal/Open-source.md",
-    "Personal/Getting back into it.md",
     "Personal/Call with Corentin Dumery from CVLAB.md",
-    "Personal/Reading/Daily Papers/Notes/Untitled.canvas",
-    "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 20.md",
-    "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
-    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/Deep Learning Papers Reading Roadmap.md",
-    "Personal/Articles/The demise of the oil industry.md",
-    "Pasted image 20240520125356.png",
-    "Pasted image 20240518130920.png",
-    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/COM-301_Computer_security.md",
+    "Personal/Reading/Daily Papers/Notes/Ressources/3dgs_rasterizer.png",
+    "Personal/Reading/Daily Papers/Notes/Ressources/3dgs_optimizer.png",
+    "Personal/Reading/Daily Papers/Notes/Ressources",
+    "Personal/Reading/Notions/Math/Spherical Harmonics.md",
+    "Personal/Reading/Notions/Math",
+    "Personal/Reading/Notions",
+    "Personal/Untitled",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Central_Processing_Unit_(CPU).md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/CS-202_-_Computer_Systems.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_11.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_14.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_2.md",
+    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_1.md",
     "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week2.md",
-    "Pasted image 20240917162239.png",
     "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes/COM-301_Week1.md",
-    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/COM-300_Modèles_stochastiques.md",
     "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/Weekly_Notes/COM-300_Week_1.md",
-    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/Weekly_Notes/COM-300_Week_1.md",
-    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security/Weekly_Notes",
-    "EPFL/Bachelor/SC_BA5/COM-301_Computer_security",
-    "EPFL/Bachelor/BA6.md",
+    "Personal/Getting back into it.md",
+    "Personal/Reading/Daily Papers/Notes/Untitled.canvas",
+    "Personal/Open-source.md",
+    "Personal/Todo 03-31_04-07.md",
+    "Pasted image 20240518131013.png",
     "EPFL/Bachelor/SC_-_BA4/CS-250_-_Algorithms_I/Notions/Graphs.md",
-    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques/Weekly_Notes",
-    "EPFL/Bachelor/SC_BA5/COM-300_Modèles_stochastiques",
-    "EPFL/Bachelor/SC_BA5",
-    "EPFL/Bachelor/SC_-_BA4/SC_-_BA4.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_7.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240408094745.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Ressources/Pasted_image_20240408094745 1.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_6.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Networking/Network_Performance.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Networking",
-    "Pasted image 20240520133131.png",
-    "Pasted image 20240520130130.png",
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_11.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/CS-232_-_Introduction_to_Machine_Learning.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-232_-_Introduction_to_Machine_Learning/Weekly_Notes/CS-232_Week_10.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_10.md",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Weekly_Notes/CS-202_Week_3.pdf",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).pdf",
-    "EPFL/Bachelor/SC_-_BA4/CS-202_-_Computer_Systems/Notions/Operating_System_(OS).fdb_latexmk"
+    "README.md",
+    "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 26.md",
+    "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 02 20.md",
+    "Personal/Reading/Daily Papers/Notes",
+    "Personal/Reading/Daily Papers/Master Daily Papers Registory.md",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/requirements.txt",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/3_Applications/38_Object_Segmentation/[5]_Dai,_J,_He,_K,_Sun,_J_Instance-sensitive_Fully_Convolutional_Networks_arXiv_preprint_arXiv_160308678_(2016)_.pdf",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/3_Applications/38_Object_Segmentation/[4]_Dai,_J,_He,_K,_Sun,_J_Instance-aware_semantic_segmentation_via_multi-task_network_cascades_in_CVPR_2016_.pdf",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/3_Applications/38_Object_Segmentation/[3]_Pinheiro,_PO,_Collobert,_R,_Dollar,_P_Learning_to_segment_object_candidates_In__NIPS_2015_.pdf",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/3_Applications/38_Object_Segmentation/[2]_L-C_Chen,_G_Papandreou,_I_Kokkinos,_K_Murphy,_and_A_L_Yuille_Semantic_image_segmentation_with_deep_convolutional_nets_and_fully_connected_crfs_In_ICLR,_2015_.pdf",
+    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/Deep Learning Papers Reading Roadmap.md",
+    "Personal/Reading/Articles/Seba Technology Disruption Framework.md",
+    "Personal/Reading/Articles/RethinkX - Rethinking food and agriculture 2020-2030.md",
+    "Personal/Reading/Articles/Precision Fermentation.md",
+    "Personal/Articles/The demise of the oil industry.md",
+    "Pasted image 20240917162239.png",
+    "Pasted image 20240522092919.png",
+    "Pasted image 20240522092852.png",
+    "Pasted image 20240522084823.png",
+    "Pasted image 20240522084702.png",
+    "Pasted image 20240521085546.png",
+    "Pasted image 20240521083730.png"
   ]
 }

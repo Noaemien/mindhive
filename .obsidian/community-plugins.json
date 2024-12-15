@@ -1,15 +1,7 @@
 [
-  "tag-wrangler",
-  "templater-obsidian",
-  "dataview",
-  "emoji-shortcodes",
-  "calendar",
-  "obsidian-tasks-plugin",
   "quick-latex",
   "obsidian-completr",
-  "obsidian-functionplot",
-  "obsidian-image-caption",
-  "scroll-speed",
   "obsidian-bulk-rename-plugin",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "templater-obsidian"
 ]

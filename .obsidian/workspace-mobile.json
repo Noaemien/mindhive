@@ -12,7 +12,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -21,11 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md",
-                "mode": "preview",
+                "file": "EPFL/Bachelor/BA6.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "BA6"
             }
           }
         ],
@@ -45,7 +49,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -60,7 +66,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -71,7 +79,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -79,7 +89,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       },
       {
@@ -91,7 +103,9 @@
             "sortOrder": "frequency",
             "showSearch": false,
             "searchQuery": ""
-          }
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
@@ -107,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md",
+            "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +129,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -124,10 +140,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md",
+            "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -136,8 +154,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I/CS-250 - Algorithms I.md"
-          }
+            "file": "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -145,7 +165,9 @@
         "type": "leaf",
         "state": {
           "type": "calendar",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -164,6 +186,7 @@
   },
   "active": "7e2750bf6f3e0964",
   "lastOpenFiles": [
+    "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md",
     "README.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/CS-202 - Computer Systems.md",
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems/Weekly Notes/CS-202 Week 1.md",
@@ -209,7 +232,6 @@
     "EPFL/Bachelor/SC - BA4/CS-202 - Computer Systems.md",
     "EPFL/Bachelor/SC - BA4/CS-232 - Introduction to Machine Learning.md",
     "EPFL/Bachelor/SC - BA4/CS-250 - Algorithms I.md",
-    "Deep Learning.md",
-    "Getting back into it.md"
+    "Deep Learning.md"
   ]
 }
