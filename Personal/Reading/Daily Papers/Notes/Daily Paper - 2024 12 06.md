@@ -137,7 +137,7 @@ A Thread 🧵(1/?):
 (3/)
 In the spirit of Neural Radiance Fields (NeRFs), 3DGS steps away from traditional scene representation with meshes and points in favour of using a continuous and differentiable scene representation in the form of 3D Gaussians. This allows for the scene to be fitted through optimization steps yielding high resolution scenes and fast training times.
 
-{Video comparison of mesh vs 3dgs}
+![[meshvsgauss.mp4]]
 
 What are 3D Gaussians ?
 
@@ -147,11 +147,11 @@ What are 3D Gaussians ?
 - Opacity $\alpha$ 
 - Spherical Harmonics coefficients that represent r, g, b channels.
 
-{Video demonstrating 3D Gaussian properties}
+![[propertiesx2.mp4]]
 
 3D Gaussians are a probabilistic function defined by a 3D covariance matrix $\Upsigma$:
 $$G(x) = e^{\frac{-1}{2}(x)^{T}\Upsigma^{-1}(x)}$$
-Although they can be hard to visualize, 3D gaussians can be imagined as an ellipsoid analogous to $\Sigma$.
+Although they can be hard to visualize, 3D gaussians can be imagined as an ellipsoid and its covariance is analogous to describing ones configuration.
 For this reason we can describe $\Sigma$ as:
 $$\Upsigma = RSS^{T}R^{T}$$
 $$\text{with } S = \begin{bmatrix}
@@ -181,5 +181,24 @@ $$\Sigma = JW\Sigma W^{T}J^{T} $$
 The 3DGS algorithm is trained through multiple iterations of rasterizing the scene and comparing the output to the training images.
 
 Like in traditional Multi-Layer Perceptrons (MLP's), Stockastic Gradient Descent is used to optimize the model parameters.
-The loss 
 
+In addition to this, adaptive density control is used to control the quantity of gaussians in a scene, adding or removing them where necessary.
+Every 100 iterations, the network removes all gaussians with a very low opacity $\alpha$ and applies its densification protocol by detecting under-reconstructed regions and over-reconstructed regions.
+
+![[Densification.png]]
+
+In addition to this, to prevent overflow, every 3000 iterations, all gaussians opacity is reset to a very small value close to 0.
+Thanks to this optimization will increase $\alpha$ for useful gaussians and useless ones will be culled.
+
+![[3dgs_optimizer.png|500]]
+
+**The Rasterization Process**
+
+The rasterization process starts by splitting image space into 16x16 pixel tiles, and culling gaussians that don't have a 99% confidence interval on intersection with the tiles viewing frustum.
+Gaussians too close to view plane or too far outside frustum are also culled.
+![[Pasted image 20241215215410.png]]
+Gaussians are then duplicated as many times as tiles they overlap and are each assigned a 64 bit key where view space depth is the lower 32 bits and tile ID is the higher 32 bits.
+This enables the model to sort gaussians once, selecting them by tile id in key.
+Pixels then each traverse the tiles gaussians from closest to furthest but adding $\alpha$ blended colors until target saturation is reached.x
+
+![[3dgs_rasterizer.png|500]]

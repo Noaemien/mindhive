@@ -179,10 +179,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68281357da8ebc21",
+  "active": "c143535ec5ff3bdd",
   "lastOpenFiles": [
-    "Personal/Reading/Daily Papers/Notes/Untitled.md",
+    "meshvsgauss.mp4",
+    "propertiesx2.mp4",
+    "Pasted image 20241215215410.png",
+    "Pasted image 20240522092919.png",
+    "Pasted image 20240917162239.png",
+    "Personal/Reading/Daily Papers/Notes/Ressources/Densification.png",
     "Personal/Reading/Daily Papers/Notes/Daily Paper - 2024 12 06.md",
+    "Personal/Reading/Daily Papers/Notes/Untitled.md",
     "Personal/Call with Corentin Dumery from CVLAB.md",
     "Personal/Reading/Daily Papers/Notes/Ressources/3dgs_rasterizer.png",
     "Personal/Reading/Daily Papers/Notes/Ressources/3dgs_optimizer.png",
@@ -215,18 +221,12 @@
     "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/3_Applications/38_Object_Segmentation/[5]_Dai,_J,_He,_K,_Sun,_J_Instance-sensitive_Fully_Convolutional_Networks_arXiv_preprint_arXiv_160308678_(2016)_.pdf",
     "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/3_Applications/38_Object_Segmentation/[4]_Dai,_J,_He,_K,_Sun,_J_Instance-aware_semantic_segmentation_via_multi-task_network_cascades_in_CVPR_2016_.pdf",
     "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/3_Applications/38_Object_Segmentation/[3]_Pinheiro,_PO,_Collobert,_R,_Dollar,_P_Learning_to_segment_object_candidates_In__NIPS_2015_.pdf",
-    "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/pdfs/3_Applications/38_Object_Segmentation/[2]_L-C_Chen,_G_Papandreou,_I_Kokkinos,_K_Murphy,_and_A_L_Yuille_Semantic_image_segmentation_with_deep_convolutional_nets_and_fully_connected_crfs_In_ICLR,_2015_.pdf",
     "Personal/Reading/Daily Papers/Deep-Learning-Papers-Reading-Roadmap-master/Deep Learning Papers Reading Roadmap.md",
     "Personal/Reading/Articles/Seba Technology Disruption Framework.md",
     "Personal/Reading/Articles/RethinkX - Rethinking food and agriculture 2020-2030.md",
     "Personal/Reading/Articles/Precision Fermentation.md",
-    "Personal/Articles/The demise of the oil industry.md",
-    "Pasted image 20240917162239.png",
-    "Pasted image 20240522092919.png",
     "Pasted image 20240522092852.png",
     "Pasted image 20240522084823.png",
-    "Pasted image 20240522084702.png",
-    "Pasted image 20240521085546.png",
-    "Pasted image 20240521083730.png"
+    "Pasted image 20240522084702.png"
   ]
 }
