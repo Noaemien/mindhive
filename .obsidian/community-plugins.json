@@ -3,5 +3,6 @@
   "obsidian-completr",
   "obsidian-bulk-rename-plugin",
   "obsidian-pandoc",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview"
 ]

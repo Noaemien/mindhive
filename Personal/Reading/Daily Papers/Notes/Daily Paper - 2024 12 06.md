@@ -125,9 +125,9 @@ Store a vector of spherical harmonic coefficients for each color channel (RGB).
 # Article
 
 ## 3D Gaussian Splatting for Real Time Radiance Field Rendering.  
-A deep-dive into the paper that revolutionized modern scene reconstruction techniques, yielding high-resolution results and real-time rendering with fast training times.  
+A deep-dive into the paper that revolutionised modern scene reconstruction techniques, yielding high-resolution results and real-time rendering with fast training times.  
 A Thread 🧵(1/?):
-
+![[playroom.mp4]]
 (2/)
 3DGS offers 3 main improvements on previous methods:
 - Use of 3D Gaussians for scene representation.
@@ -135,24 +135,25 @@ A Thread 🧵(1/?):
 - Real-time scene rendering.
 
 (3/)
-In the spirit of Neural Radiance Fields (NeRFs), 3DGS steps away from traditional scene representation with meshes and points in favour of using a continuous and differentiable scene representation in the form of 3D Gaussians. This allows for the scene to be fitted through optimization steps yielding high resolution scenes and fast training times.
+In the spirit of Neural Radiance Fields (NeRFs), 3DGS steps away from traditional scene representation with meshes and points in favour of using a continuous and differentiable scene representation in the form of 3D Gaussians. This allows for the scene to be fitted through optimisation steps yielding high resolution scenes and fast training times.
 
 ![[meshvsgauss.mp4]]
 
-What are 3D Gaussians ?
+(4/)
+**What are 3D Gaussians ?**
 
 3D gaussians defined by the following properties:
-- A mean $\mu = (x, y, z)$ or "position"
-- A covariance $\Sigma$
-- Opacity $\alpha$ 
+- A mean or "position" $\mu =$ (x, y, z)
+- A 3x3 covariance matrix $\Sigma$
+- Opacity $\alpha$
 - Spherical Harmonics coefficients that represent r, g, b channels.
 
-![[propertiesx2.mp4]]
 
+![[properties.mp4]]
 3D Gaussians are a probabilistic function defined by a 3D covariance matrix $\Upsigma$:
 $$G(x) = e^{\frac{-1}{2}(x)^{T}\Upsigma^{-1}(x)}$$
 Although they can be hard to visualize, 3D gaussians can be imagined as an ellipsoid and its covariance is analogous to describing ones configuration.
-For this reason we can describe $\Sigma$ as:
+For this reason we can describe sigma as:
 $$\Upsigma = RSS^{T}R^{T}$$
 $$\text{with } S = \begin{bmatrix}
 s_{x} & 0 & 0 \\ 0 & s_{y} & 0 \\ 0 & 0 & s_{z}
@@ -173,17 +174,24 @@ Being volumetric in nature, 3d gaussians are particularly useful as they can be 
  
 
 The 2D Covariance Matrix is derived by applying two affine mappings.
-- The extrinsic camera matrix $W = [R | T]$ which maps the covariance matrix to 3D camera space
-- The affine approximation of the projective transformation from camera space to image space given by the intrinsic camera matrix $K = \frac{1}{z}\begin{bmatrix} f_{x} & s & c_{x} \\ 0 & f_{y} & c_{y} \\ 0 & 0 & 1\end{bmatrix}$
-$$\Sigma = JW\Sigma W^{T}J^{T} $$
+- The extrinsic camera matrix $W = [R | T]$ which maps the covariance matrix from world space to 3D camera space
+- The affine approximation of the projective transformation from camera space to image space given by the intrinsic camera matrix $$K = \frac{1}{z}\begin{bmatrix} f_{x} & s & c_{x} \\ 0 & f_{y} & c_{y} \\ 0 & 0 & 1\end{bmatrix}$$
+This means $\Sigma'$, the 2D covariance matrix, can be written as:
+$$\Sigma' = JW\Sigma W^{T}J^{T} $$
+where J is the Jacobian of K.
+
+
+(6/)
 **The Optimization process:**
 
-The 3DGS algorithm is trained through multiple iterations of rasterizing the scene and comparing the output to the training images.
+The 3DGS algorithm is trained through multiple iterations of rendering (or rasterizing) the scene and comparing the output to the training images.
 
 Like in traditional Multi-Layer Perceptrons (MLP's), Stockastic Gradient Descent is used to optimize the model parameters.
 
 In addition to this, adaptive density control is used to control the quantity of gaussians in a scene, adding or removing them where necessary.
-Every 100 iterations, the network removes all gaussians with a very low opacity $\alpha$ and applies its densification protocol by detecting under-reconstructed regions and over-reconstructed regions.
+Every 100 iterations, the network removes all gaussians with a very low opacity $\alpha$ below a chosen threshold, and applies its densification protocol by detecting under-reconstructed regions and over-reconstructed regions.
+
+When a region's gradient is too high, the densification protocol either splits Gaussians if they are deemed too big, or otherwise clones them.
 
 ![[Densification.png]]
 
@@ -192,13 +200,33 @@ Thanks to this optimization will increase $\alpha$ for useful gaussians and usel
 
 ![[3dgs_optimizer.png|500]]
 
+(7/)
 **The Rasterization Process**
 
-The rasterization process starts by splitting image space into 16x16 pixel tiles, and culling gaussians that don't have a 99% confidence interval on intersection with the tiles viewing frustum.
-Gaussians too close to view plane or too far outside frustum are also culled.
-![[Pasted image 20241215215410.png]]
+The rasterization process starts by splitting image space into 16x16 pixel tiles, and culling gaussians that don't have a 99% confidence interval of intersecting with the tile's viewing frustum.
+Gaussians too close to near plane or too far outside frustum are also culled.
+![[Viewing frustum.png]]
 Gaussians are then duplicated as many times as tiles they overlap and are each assigned a 64 bit key where view space depth is the lower 32 bits and tile ID is the higher 32 bits.
 This enables the model to sort gaussians once, selecting them by tile id in key.
-Pixels then each traverse the tiles gaussians from closest to furthest but adding $\alpha$ blended colors until target saturation is reached.x
+Pixels then each traverse the tiles gaussians from closest to furthest, adding $\alpha$ blended colors until target saturation is reached.
 
 ![[3dgs_rasterizer.png|500]]
+
+(8/8)
+**Spherical Harmonics**
+Spherical harmonics are functions defined on the surface of a sphere that are used, in this case, to describe gaussians color dependant on viewing direction.
+![[Spherical Harmonics function.png]]
+This allows the trained model to represent view dependant effects such as reflections and specularity.
+
+![[Spherical Harmonics.png|500]]
+
+
+
+In the 3DGS algorithm, spherical harmonics are used by performing a weighted sum of the function for all degrees l and values m up to l = 2
+A vector of these coefficients coefficients is stored for each color channel (RGB).
+This enables to model to accurately optimize view dependent color for any non transparent object whilst storing only 27 different coefficient values per gaussian.
+
+**Good References:**
+Original paper: https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/
+Good ressource: https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362
+Good implementation: https://github.com/nerfstudio-project/nerfstudio/
