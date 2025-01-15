@@ -50,5 +50,25 @@ Transformer$^2$ framework:
 ## Methods
 #### Preliminaries:
 - SVD
+	- Weight matrices decomposed into: $$W = U\Sigma V^{T} $$$$\text{ with } U \in \mathbb{R}^{m \times r}, V \in \mathbb{R}^{n \times r} \text{ and } \Sigma = \text{diag}(\boldsymbol{\sigma}), \boldsymbol{\sigma}\in \mathbb{R}^{r}$$
 - Cross-entropy method (CEM)
+	- Monte Carlo method.
+	- Aims to minimize KL divergence between two probability distributions.
+
+![[Pasted image 20250115145919.png | 500]]
+#### Singular Value Fine-tuning (SVF)
+Conventional method: fine tune by modifying pre-trained models weight matrices. But capabilities often already exist in pre-trained models. Efficient fine-tuning should try and make these capabilities more expressible.
+
+SVF aims to learn vector $z \in \mathbb{R}^{r}$ which modifies each singular component of $W$ independently to give us $W' = U \Sigma' V^{T}$ where $\Sigma' = \Sigma \cdot \text{diag}(z)$.
+
+**Properties:**
+- **Negligible parameters:** Allows for small amount of trainable parameters $r = \min(m,n)$ when compared to SOTA methods designed for efficiency. For example, LoRA which requires $(m+n) \times r'$ parameters per weight matrix.
+- **High compositionally:** learned vectors $z$ are highly composable and interpretable, when compared to previous SOTA methods.
+- **Principled regularisation:** Modifying the magnitude of singular components provides an effective form of regularisation.
+
+#### End-to-end optimisation with RL
+(More difficult - todo)
+
+#### Self-adaptation
+Two pass adaptation strategy. 
 
